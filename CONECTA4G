@@ -1,6 +1,6 @@
 {
 
-  "Version": "4",
+  "Version": "5",
   "ReleaseNotes": "ACTUALIZACION DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -15,7 +15,7 @@
   ],
   "Servers": [ 
      {
-      "Name": "WOLFnet4",
+      "Name": "WOLFnet5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ssl.vpsw3s.ml",
