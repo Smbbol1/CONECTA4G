@@ -15,7 +15,7 @@
   ],
   "Servers": [ 
      {
-      "Name": "WOLFnet9",
+      "Name": "WOLFnet2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ssl.vpsw3s.ml",
@@ -37,7 +37,7 @@
       "PASS": "robotines"
       },
     {
-      "Name": "ELEMENT",
+      "Name": "ELEMENT 2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "74.207.240.71",
