@@ -1,6 +1,6 @@
 {
 
-  "Version": "11",
+  "Version": "12",
   "ReleaseNotes": "ACTUALIZACION DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -36,6 +36,7 @@
       "USER": "pluginstore",
       "PASS": "robotines"
       },
+
     {
       "Name": "ELEMENT 2",
       "TYPE": "premium",
@@ -59,6 +60,17 @@
       "ProxyPort": "",
       "Info": "Ssl"
      },
+{
+      "Name": "ROTIN",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "158.69.235.87",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "pluginstore",
+      "PASS": "robotines"
+      },
 {
 "Name": "NETFLIX 90",
 "FLAG": "CLARO",
@@ -84,6 +96,18 @@
       "FLAG": "CLARO",  
       "Payload": "GET wss://netflix.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",  
       "SNI": "netflix.com",  
+      "TlsIP": "[app_host]",  
+      "ProxyIP": "",  
+      "ProxyPort": "443",  
+      "Info": "Tlsws" 
+ },
+{
+      "Name": "MEGA CLASS 443",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade, HTTP2-Settings
+ > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]"
+",  
+      "SNI": "[app_host]",  
       "TlsIP": "[app_host]",  
       "ProxyIP": "",  
       "ProxyPort": "443",  
