@@ -111,6 +111,28 @@
       "ProxyIP": "",  
       "ProxyPort": "443",  
       "Info": "Tlsws" 
+ },
+{
+      "Name": "ENTEL FAST",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade, HTTP2-Settings
+ > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",  
+      "TlsIP": "",  
+      "ProxyIP": "",  
+      "ProxyPort": "90",  
+      "Info": "Direct" 
+ },
+{
+      "Name": "MEGA CLASSES 443",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade, HTTP2-Settings
+ > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "micuenta.entel.bo",  
+      "TlsIP": "",  
+      "ProxyIP": "",  
+      "ProxyPort": "443",  
+      "Info": "Tlsws" 
  }
   ]
 }
