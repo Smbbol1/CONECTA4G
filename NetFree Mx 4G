@@ -1,5 +1,5 @@
 { 
-  "Version": "7", 
+  "Version": "8", 
   "ReleaseNotes": "Nova atualização disponível! 😁 ", 
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/NetFree%20Mx%204G",  
   "Sms": "https://bitbin.it/FNM1TTuT/raw/",  
@@ -89,13 +89,13 @@
 "ProxyPort": "80",
 "Info": "Proxy"
 },
-{
+       {
       "Name": "INSTAGRAM WLQ 443",  
       "FLAG": "CLARO",  
       "Payload": "GET / HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",  
       "SNI": "instagram.com",  
       "TlsIP": "[app_host]",  
-      "ProxyIP": "",  
+      "ProxyIP": "[app_host]",  
       "ProxyPort": "443",  
       "Info": "Tlsws" 
  },
