@@ -1,5 +1,5 @@
 { 
-  "Version": "3", 
+  "Version": "4", 
   "ReleaseNotes": "Nova atualização disponível! 😁 ", 
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/NetFree%20Mx%204G",  
   "Sms": "https://bitbin.it/FNM1TTuT/raw/",  
@@ -13,7 +13,7 @@
   ],
  "Servers": [ 
      {
-      "Name": "CLOUDRED 443",
+      "Name": "CLOUDRED 443 Peru:Peru",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "144.22.54.124",
@@ -24,7 +24,7 @@
       "PASS": "Peru"
       },
     {
-      "Name": "CONECT PLUS 90",
+      "Name": "CONECT PLUS 90 MTTAPP:@ADMMEPLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "45.61.185.112",
