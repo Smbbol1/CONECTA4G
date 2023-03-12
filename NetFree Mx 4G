@@ -1,5 +1,5 @@
 { 
-  "Version": "5", 
+  "Version": "6", 
   "ReleaseNotes": "Nova atualização disponível! 😁 ", 
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/NetFree%20Mx%204G",  
   "Sms": "https://bitbin.it/FNM1TTuT/raw/",  
@@ -69,8 +69,8 @@
       "USER": "pluginstore",
       "PASS": "robotines"
       },
-{
-"Name": "INSTAGRAM WLQ 90",
+      {
+     "Name": "INSTAGRAM WLQ 90",
 "FLAG": "CLARO",
 "Payload": "GET / HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
