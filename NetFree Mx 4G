@@ -1,5 +1,5 @@
 { 
-  "Version": "3", 
+  "Version": "2", 
   "ReleaseNotes": "Nova atualização disponível! 😁 ", 
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/NetFree%20Mx%204G",  
   "Sms": "https://bitbin.it/FNM1TTuT/raw/",  
@@ -14,11 +14,11 @@
   "Servers": [
     
     { 
-      "Name": " CLOUDRED 443 ", 
+      "Name": " Cloudred 443 ", 
       "TYPE": "premium", 
       "FLAG": "br.png", 
       "ServerIP": "144.22.54.124", 
-      "CheckUser": "http://51.222.88.207:8181/checkUser", 
+      "CheckUser": "http://51.222.8.207:8181/checkUser", 
       "ServerPort": "22", 
       "SSLPort": "443", 
       "USER": "Peru", 
@@ -27,9 +27,9 @@
   ], 
   "Networks": [ 
        { 
-            "Name": "INSTAGRAM 443 Peru:Peru", 
+            "Name": "instagram 443", 
             "FLAG": "vivo.png", 
-            "Payload": "GET / HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]", 
+            "Payload": "GET / HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "instagram.com", 
             "TlsIP": "[app_host]", 
             "ProxyIP": "", 
