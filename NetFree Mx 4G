@@ -1,5 +1,5 @@
 { 
-  "Version": "2", 
+  "Version": "3", 
   "ReleaseNotes": "Nova atualização disponível! 😁 ", 
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/NetFree%20Mx%204G",  
   "Sms": "https://bitbin.it/FNM1TTuT/raw/",  
@@ -31,8 +31,8 @@
             "FLAG": "vivo.png", 
             "Payload": "GET / HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]", 
             "SNI": "instagram.com", 
-            "TlsIP": "", 
-            "ProxyIP": "[app_host]", 
+            "TlsIP": "[app_host]", 
+            "ProxyIP": "", 
             "ProxyPort": "443", 
             "Info": "Tlsws" 
         },
