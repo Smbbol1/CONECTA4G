@@ -1,11 +1,13 @@
 {
-  "Version": "4",
+  "Version": "5",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "",
   "UrlTermos": "",
+  "LogoLink": "https://i.ibb.co/wrVssJF/logo.png", 
+  "BackgroundLink": "https://i.ibb.co/6wCHBQj/fundodolog.jpg", 
   "CheckUser": "true", 
   "UdpPort": "7100;7200;7300;7400;7500;7600",
   "Udp": [
