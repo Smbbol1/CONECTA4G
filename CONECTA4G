@@ -1,6 +1,5 @@
-
 { 
-  "Version": "28", 
+  "Version": "29", 
   "ReleaseNotes": "Nova atualização disponível! 😁 ", 
   "UrlUpdate": "https://bitbin.it/AcJCfeYG/raw/",  
   "Sms": "https://bitbin.it/FNM1TTuT/raw/",  
@@ -12,8 +11,7 @@
       "Porta": "7300"
     }
   ],
-
-  "Servers": [ 
+ "Servers": [ 
      {
       "Name": "CLOUDRED 443",
       "TYPE": "premium",
