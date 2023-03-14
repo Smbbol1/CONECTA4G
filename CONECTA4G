@@ -1,5 +1,5 @@
 {
-  "Version": "6",
+  "Version": "7",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -75,6 +75,16 @@
       "ProxyPort": "",
       "Info": "Ssl"
      },
+{
+            "Name": "ENTEL FREE",
+            "FLAG": "vivo.png",
+            "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]", 
+            "SNI": "micuenta.entel.bo",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
 {
       "Name": "ROTIN",
       "TYPE": "premium",
