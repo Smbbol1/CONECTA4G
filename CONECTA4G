@@ -1,5 +1,5 @@
 {
-  "Version": "8",
+  "Version": "9",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -66,10 +66,10 @@
   ],
 "Networks": [
       {
-      "Name": "INSTAGRAM 444 ssl",
+      "Name": "youtube 444 ssl",
       "FLAG": "CLARO",
       "Payload": "",
-      "SNI": "instagram.com",
+      "SNI": "youtube.com",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "",
@@ -106,10 +106,10 @@
 "Info": "Proxy"
 },
 {
-      "Name": "INSTAGRAM WLQ 443",  
+      "Name": "youtube WLQ 443",  
       "FLAG": "CLARO",  
-      "Payload": "GET / HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",  
-      "SNI": "instagram.com",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",  
+      "SNI": "youtube.com",  
       "TlsIP": "[app_host]",  
       "ProxyIP": "",  
       "ProxyPort": "443",  
