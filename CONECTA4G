@@ -1,5 +1,5 @@
 {
-  "Version": "11",
+  "Version": "12",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -96,14 +96,14 @@
 "Info": "Direct"
 },
      {
-"Name": "NETFLIX 80",
+"Name": "YOUTUBE 90",
 "FLAG": "CLARO",
-"Payload": "GET / HTTP/1.1[crlf]Host: netflix.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "GET / HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "[app_host]",
-"ProxyPort": "80",
-"Info": "Proxy"
+"ProxyIP": "",
+"ProxyPort": "90",
+"Info": "Direct"
 },
 {
       "Name": "youtube WLQ 443",  
