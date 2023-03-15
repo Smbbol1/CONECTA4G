@@ -1,5 +1,5 @@
 {
-  "Version": "9",
+  "Version": "11",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -53,15 +53,15 @@
       },
 
     {
-      "Name": "ELEMENT 2",
+      "Name": "IRON SPEED 90",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "74.207.240.71",
+      "ServerIP": "143.198.154.4",
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "regalo",
-      "PASS": "userpass"
+      "SSLPort": "90",
+      "USER": "UserNew",
+      "PASS": "@serv1"
     }
   ],
 "Networks": [
@@ -86,9 +86,9 @@
             "Info": "Tlsws"
         },
 {
-"Name": "INSTAGRAM WLQ 90",
+"Name": "ENTEL FREE WLQ 90",
 "FLAG": "CLARO",
-"Payload": "GET / HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "[app_host]",
