@@ -1,1 +1,186 @@
-k
+{
+  "Version": "17",
+  "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
+  "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "",
+  "CheckUser": "true", 
+  "UdpPort": "7100;7200;7300;7400;7500;7600",
+  "Udp": [
+    {
+      "Porta": "7100"
+    },
+    {
+      "Porta": "7200"
+    },   
+    {
+      "Porta": "7300"
+    },  
+    {
+      "Porta": "7400"
+    },   
+    {
+      "Porta": "7500"
+    },   
+    {
+      "Porta": "7600"
+    },    
+  ],
+ "Servers": [ 
+     {
+      "Name": "CLOUDRED 443",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "144.22.54.124",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Peru",
+      "PASS": "Peru"
+      },
+    {
+      "Name": "CONECT PLUS 90",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "45.61.185.112",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "90",
+      "USER": "MTTAPP",
+      "PASS": "@ADMMEPLUS"
+      },
+{
+      "Name": "I TUNNELVPN 443 wlq",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "67.205.143.9",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "mrxspeed",
+      "PASS": "@gatico1"
+      },
+    {
+      "Name": "IRON SPEED 90",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "143.198.154.4",
+      "CheckUser": "http://20.206.160.241:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "90",
+      "USER": "mrxspeed",
+      "PASS": "@gatico1"
+    },
+{
+      "Name": "FENIX VIVA FREE FREE WLQ",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "fz.fenix23.tk",
+      "CheckUser": "http://20.206.160.241:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "fenix2",
+      "PASS": "634771123"
+    }
+  ],
+"Networks": [
+      {
+      "Name": "youtube 444 ssl",
+      "FLAG": "CLARO",
+      "Payload": "",
+      "SNI": "youtube.com",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Ssl"
+     },
+{
+            "Name": "ENTEL FREE",
+            "FLAG": "vivo.png",
+            "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]", 
+            "SNI": "micuenta.entel.bo",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+{
+"Name": "ENTEL FREE WLQ 90",
+"FLAG": "CLARO",
+"Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "[app_host]",
+"ProxyPort": "90",
+"Info": "Direct"
+},
+     {
+"Name": "YOUTUBE 90",
+"FLAG": "CLARO",
+"Payload": "GET / HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "",
+"ProxyPort": "90",
+"Info": "Direct"
+},
+{
+      "Name": "youtube WLQ 443",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",  
+      "SNI": "youtube.com",  
+      "TlsIP": "[app_host]",  
+      "ProxyIP": "",  
+      "ProxyPort": "443",  
+      "Info": "Tlsws" 
+ },
+{
+      "Name": "VIVA FREE FREE",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: fz.fenix23.tk[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "fz.fenix23.tk",  
+      "TlsIP": "vivabolivia.zendesk.com",  
+      "ProxyIP": "",  
+      "ProxyPort": "443",  
+      "Info": "Tlsws" 
+ },
+{
+      "Name": "ENTEL FAST",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade, HTTP2-Settings
+ > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",  
+      "TlsIP": "",  
+      "ProxyIP": "",  
+      "ProxyPort": "90",  
+      "Info": "Direct" 
+ },
+{
+      "Name": "MEGA CLASSES 443",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade, HTTP2-Settings
+ > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "micuenta.entel.bo",  
+      "TlsIP": "",  
+      "ProxyIP": "",  
+      "ProxyPort": "443",  
+      "Info": "Tlsws" 
+ }
+  ]
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
