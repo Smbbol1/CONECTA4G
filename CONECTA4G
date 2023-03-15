@@ -1,5 +1,5 @@
 {
-  "Version": "13",
+  "Version": "14",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -51,7 +51,17 @@
       "USER": "MTTAPP",
       "PASS": "@ADMMEPLUS"
       },
-
+{
+      "Name": "I TUNNELVPN 443 wlq",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "67.205.143.9",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "MTTAPP",
+      "PASS": "@ADMMEPLUS"
+      },
     {
       "Name": "IRON SPEED 90",
       "TYPE": "premium",
@@ -60,8 +70,8 @@
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "90",
-      "USER": "UserNew",
-      "PASS": "@serv1"
+      "USER": "mrxspeed",
+      "PASS": "@gatico1"
     },
 {
       "Name": "FENIX VIVA FREE FREE WLQ",
