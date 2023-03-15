@@ -1,5 +1,5 @@
 {
-  "Version": "17",
+  "Version": "18",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -70,8 +70,8 @@
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "90",
-      "USER": "mrxspeed",
-      "PASS": "@gatico1"
+      "USER": "UserNew",
+      "PASS": "@serv1"
     },
 {
       "Name": "FENIX VIVA FREE FREE WLQ",
