@@ -1,5 +1,5 @@
 {
-  "Version": "19",
+  "Version": "21",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -39,6 +39,17 @@
       "SSLPort": "443",
       "USER": "Peru",
       "PASS": "Peru"
+      },
+{
+      "Name": "Kriss network 443 ssl",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "142.93.191.39",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "grupo",
+      "PASS": "	@50505050"
       },
     {
       "Name": "CONECT PLUS 90",
