@@ -1,5 +1,5 @@
 {
-  "Version": "21",
+  "Version": "22",
   "ReleaseNotes": "NOVA ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -49,7 +49,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "grupo",
-      "PASS": "	@50505050"
+      "PASS": "@50505050"
       },
     {
       "Name": "CONECT PLUS 90",
@@ -98,7 +98,7 @@
   ],
 "Networks": [
       {
-      "Name": "youtube 444 ssl",
+      "Name": "youtube 443 ssl",
       "FLAG": "CLARO",
       "Payload": "",
       "SNI": "youtube.com",
