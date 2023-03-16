@@ -1,5 +1,5 @@
 {
-  "Version": "23",
+  "Version": "24",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -31,7 +31,7 @@
  "Servers": [ 
      {
       "Name": "CLOUDRED 443",
-      "TYPE": "premium",
+      "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "144.22.54.124",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
@@ -53,7 +53,7 @@
       },
     {
       "Name": "CONECT PLUS 90",
-      "TYPE": "premium",
+      "TYPE": "us",
       "FLAG": "br.png",
       "ServerIP": "45.61.185.112",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
