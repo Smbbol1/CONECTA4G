@@ -1,5 +1,5 @@
 {
-  "Version": "25",
+  "Version": "26",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -30,15 +30,15 @@
   ],
  "Servers": [ 
      {
-      "Name": "CLOUDRED 443",
+      "Name": "MEXICO NET 443",
       "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "144.22.54.124",
+      "FLAG": "us.png",
+      "ServerIP": "107.152.46.61",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Peru",
-      "PASS": "Peru"
+      "USER": "papa",
+      "PASS": "papa"
       },
 {
       "Name": "Kriss network 443 ssl",
