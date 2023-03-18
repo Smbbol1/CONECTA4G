@@ -1,5 +1,5 @@
 {
-  "Version": "27",
+  "Version": "28",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -114,7 +114,7 @@
       "Payload": "GET s://mx.antoniomx.online HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "[app_host]",
+      "ProxyIP": "104.16.209.12",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
