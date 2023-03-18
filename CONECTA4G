@@ -1,5 +1,5 @@
 {
-  "Version": "34",
+  "Version": "36",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -120,7 +120,7 @@
   ],
 "Networks": [
 {
-      "Name": "ENTEL FREE ALL 80",
+      "Name": "ENTEL FREE ALL MEXICO 80",
       "FLAG": "CLARO",
       "Payload": "GET s://mx.antoniomx.online HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
