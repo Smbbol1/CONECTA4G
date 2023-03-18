@@ -1,5 +1,5 @@
 {
-  "Version": "33",
+  "Version": "34",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -50,6 +50,17 @@
       "SSLPort": "90",
       "USER": "papa",
       "PASS": "papa"
+      },
+{
+      "Name": "HUMEREZ 443 80 90",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "162.212.155.245",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "telegram",
+      "PASS": "regalo-humerez"
       },
 {
       "Name": "Kriss network 443 80 ssl",
@@ -112,6 +123,16 @@
       "Name": "ENTEL FREE ALL 80",
       "FLAG": "CLARO",
       "Payload": "GET s://mx.antoniomx.online HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.209.12",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE ALL Humerez 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://grupo.clientefree.ga/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.209.12",
