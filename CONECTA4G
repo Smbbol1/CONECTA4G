@@ -1,5 +1,5 @@
 {
-  "Version": "26",
+  "Version": "27",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -37,6 +37,17 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
+      "USER": "papa",
+      "PASS": "papa"
+      },
+{
+      "Name": "MEXICO NET 80",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "107.152.46.61",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "90",
       "USER": "papa",
       "PASS": "papa"
       },
@@ -97,6 +108,16 @@
     }
   ],
 "Networks": [
+{
+      "Name": "ENTEL FREE ALL 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://mx.antoniomx.online HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
       {
       "Name": "youtube 443 ssl",
       "FLAG": "CLARO",
