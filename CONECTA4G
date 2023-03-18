@@ -1,5 +1,5 @@
 {
-  "Version": "28",
+  "Version": "29",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -52,7 +52,7 @@
       "PASS": "papa"
       },
 {
-      "Name": "Kriss network 443 ssl",
+      "Name": "Kriss network 443 80 ssl",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "142.93.191.39",
@@ -127,6 +127,16 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Ssl"
+     },
+{
+      "Name": "ENTEL FREE KRISS 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://krissnetworklatam.streamkriss.online/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "krissnetworklatam.streamkriss.online",
+      "ProxyPort": "80",
+      "Info": "Proxy"
      },
 {
             "Name": "ENTEL FREE",
