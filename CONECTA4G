@@ -1,5 +1,5 @@
 {
-  "Version": "36",
+  "Version": "37",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,6 +29,28 @@
     },    
   ],
  "Servers": [ 
+{
+      "Name": "Actualizacion 37",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+      },
+{
+      "Name": "HYDRA 80",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "195.88.57.99",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "hydramx45",
+      "PASS": "@hymx001"
+      },
      {
       "Name": "MEXICO NET 443",
       "TYPE": "free",
@@ -134,6 +156,16 @@
       "Name": "ENTEL FREE ALL MEXICO 80",
       "FLAG": "CLARO",
       "Payload": "GET s://mx.antoniomx.online HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.209.12",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE Hydra 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://kamatera.eradigital.ga/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.209.12",
