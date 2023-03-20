@@ -1,5 +1,5 @@
 {
-  "Version": "38",
+  "Version": "39",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -30,7 +30,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 38",
+      "Name": "Actualizacion 39",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -49,7 +49,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "guajiroxx",
-      "PASS": "	@guajirox"
+      "PASS": "@guajirox"
       },
 {
       "Name": "HYDRA 80",
