@@ -1,5 +1,5 @@
 {
-  "Version": "39",
+  "Version": "41",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -30,7 +30,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 39",
+      "Name": "Actualizacion 41",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -39,6 +39,17 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+      },
+{
+      "Name": "NEMESIS 443 80",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "5.78.48.146",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "demo123o",
+      "PASS": "@nemesis@"
       },
 {
       "Name": "GUAJIRO 443 80",
@@ -163,6 +174,16 @@
     }
   ],
 "Networks": [
+{
+      "Name": "ENTEL FREE NEMESIS 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://testchil.pruebaenteldb.xyz/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.209.12",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
 {
       "Name": "ENTEL FREE ALL MEXICO 80",
       "FLAG": "CLARO",
