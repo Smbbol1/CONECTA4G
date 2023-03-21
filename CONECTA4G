@@ -1,5 +1,5 @@
 {
-  "Version": "43",
+  "Version": "44",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 43",
+      "Name": "Actualizacion 44",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -120,12 +120,12 @@
       "Name": "Kriss network 443 80 ssl",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "142.93.191.39",
+      "ServerIP": "cris.criis.tk",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "grupo",
-      "PASS": "@50505050"
+      "USER": "@cri",
+      "PASS": "@crisis"
       },
     {
       "Name": "CONECT PLUS 90",
@@ -177,6 +177,16 @@
       "Name": "ENTEL FREE NEMESIS 80",
       "FLAG": "CLARO",
       "Payload": "GET ws://testchil.pruebaenteldb.xyz HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "www.speedtest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE Criss 80",
+      "FLAG": "CLARO",
+      "Payload": "GET ws://cris.criis.tk HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "www.speedtest.net",
@@ -244,7 +254,7 @@
       "Info": "Ssl"
      },
 {
-      "Name": "ENTEL FREE KRISS 80",
+      "Name": "ENTEL FREE  80",
       "FLAG": "CLARO",
       "Payload": "GET s://krissnetworklatam.streamkriss.online/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
