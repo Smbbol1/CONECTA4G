@@ -1,5 +1,5 @@
 {
-  "Version": "59",
+  "Version": "62",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 59",
+      "Name": "Actualizacion 62",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -38,17 +38,6 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-      },
-{
-      "Name": "FENIX",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "dv1.eldecteam.tk",
-      "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "fenix2",
-      "PASS": "634771123"
       },
 {
       "Name": "NO X VPN 443 80",
