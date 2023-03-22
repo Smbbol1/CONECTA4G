@@ -1,5 +1,5 @@
 {
-  "Version": "53",
+  "Version": "54",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 51",
+      "Name": "Actualizacion 54",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -65,7 +65,7 @@
       "Name": "NEMESIS 443 80",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "5.78.48.146",
+      "ServerIP": "testchil.pruebaenteldb.xyz",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -76,7 +76,7 @@
       "Name": "GUAJIRO 443 80",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "172.64.80.1",
+      "ServerIP": "tigo.vpnguajiro-co.tk",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
