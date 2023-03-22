@@ -1,5 +1,5 @@
 {
-  "Version": "52",
+  "Version": "53",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -209,7 +209,7 @@
 {
       "Name": "NETFLIX NOxVPN 443",
       "FLAG": "CLARO",
-      "Payload": "GET wss://[app_host] HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "npca.netflix.com",
       "ProxyIP": "",
