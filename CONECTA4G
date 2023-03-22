@@ -1,5 +1,5 @@
 {
-  "Version": "44",
+  "Version": "45",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -38,6 +38,17 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+      },
+{
+      "Name": "NO X VPN 443 80",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "br1.servidoresvtssh.xyz",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Vitor30",
+      "PASS": "30300"
       },
 {
       "Name": "NEMESIS 443 80",
@@ -173,6 +184,17 @@
     }
   ],
 "Networks": [
+
+{
+      "Name": "ENTEL FREE NOX UNIVERSAL 80",
+      "FLAG": "CLARO",
+      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "www.speedtest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
 {
       "Name": "ENTEL FREE NEMESIS 80",
       "FLAG": "CLARO",
