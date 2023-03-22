@@ -209,7 +209,7 @@
 {
       "Name": "NETFLIX NOxVPN 443",
       "FLAG": "CLARO",
-      "Payload": "GET wss://[app_ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://[app_host] HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "www.speedtest.net",
