@@ -1,5 +1,5 @@
 {
-  "Version": "57",
+  "Version": "58",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 55",
+      "Name": "Actualizacion 58",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -195,9 +195,8 @@
     }
   ],
 "Networks": [
-
 {
-      "Name": "ENTEL FREE NOX UNIVERSAL 80",
+      "Name": "ENTEL FREE All 80",
       "FLAG": "CLARO",
       "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -207,7 +206,7 @@
       "Info": "Proxy"
      },
 {
-      "Name": "NETFLIX 443",
+      "Name": "NETFLIX All 443",
       "FLAG": "CLARO",
       "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "[app_host]",
