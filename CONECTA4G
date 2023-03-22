@@ -1,5 +1,5 @@
 {
-  "Version": "55",
+  "Version": "56",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -48,7 +48,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "fenix2",
-      "PASS": "	634771123"
+      "PASS": "634771123"
       },
 {
       "Name": "NO X VPN 443 80",
