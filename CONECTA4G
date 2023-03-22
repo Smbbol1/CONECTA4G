@@ -1,5 +1,5 @@
 {
-  "Version": "65",
+  "Version": "66",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 65",
+      "Name": "Actualizacion 66",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -87,7 +87,7 @@
       "Name": "MEXICO NET 443",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "107.152.46.61",
+      "ServerIP": "mx.antoniomx.online",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
