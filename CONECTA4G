@@ -1,5 +1,5 @@
 {
-  "Version": "58",
+  "Version": "59",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 58",
+      "Name": "Actualizacion 59",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
