@@ -1,5 +1,5 @@
 {
-  "Version": "49",
+  "Version": "51",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 46",
+      "Name": "Actualizacion 51",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -40,7 +40,7 @@
       "PASS": ""
       },
 {
-      "Name": "NEW",
+      "Name": "",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "br1.servidoresvtssh.xyz",
@@ -211,7 +211,7 @@
       "FLAG": "CLARO",
       "Payload": "GET wss://[app_host] HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "",
+      "TlsIP": "npca.netflix.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
