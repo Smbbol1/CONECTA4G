@@ -40,7 +40,7 @@
       "PASS": ""
       },
 {
-      "Name": "",
+      "Name": "xxx",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "br1.servidoresvtssh.xyz",
@@ -207,7 +207,7 @@
       "Info": "Proxy"
      },
 {
-      "Name": "NETFLIX NOxVPN 443",
+      "Name": "NETFLIX NOX VPN 443",
       "FLAG": "CLARO",
       "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "[app_host]",
