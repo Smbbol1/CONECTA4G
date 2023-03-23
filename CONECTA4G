@@ -1,5 +1,5 @@
 {
-  "Version": "66",
+  "Version": "67",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 66",
+      "Name": "Actualizacion 67",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -95,15 +95,15 @@
       "PASS": "papa"
       },
 {
-      "Name": "MEXICO NET 80",
+      "Name": "IRON SPEED",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "107.152.46.61",
+      "ServerIP": "movistar.hombre.tk",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
-      "SSLPort": "90",
-      "USER": "papa",
-      "PASS": "papa"
+      "SSLPort": "443",
+      "USER": "UserNew",
+      "PASS": "@serv1"
       },
 {
       "Name": "Sshstore 443 80 90",
