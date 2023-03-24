@@ -152,7 +152,7 @@
       },
     {
       "Name": "FOCUS VPN",
-      "TYPE": "us",
+      "TYPE": "premium",
       "FLAG": "us.png",
       "ServerIP": "vpnusa.netfireword.ml",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
