@@ -1,5 +1,5 @@
 {
-  "Version": "71",
+  "Version": "72",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -41,7 +41,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 71",
+      "Name": "Actualizacion 72",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -151,15 +151,15 @@
       "PASS": "@minapronet"
       },
     {
-      "Name": "CONECT PLUS 90",
+      "Name": "FOCUS VPN",
       "TYPE": "us",
       "FLAG": "br.png",
-      "ServerIP": "45.61.185.112",
+      "ServerIP": "vpnusa.netfireword.ml",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "90",
-      "USER": "MTTAPP",
-      "PASS": "@ADMMEPLUS"
+      "USER": "FOCUSSEx",
+      "PASS": "FPS0057v1"
       },
 {
       "Name": "I TUNNELVPN 443 wlq",
