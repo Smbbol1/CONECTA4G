@@ -1,5 +1,5 @@
 {
-  "Version": "68",
+  "Version": "69",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 68",
+      "Name": "Actualizacion 69",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -97,7 +97,7 @@
 {
       "Name": "IRON SPEED",
       "TYPE": "premium",
-      "FLAG": "br.png",
+      "FLAG": "us.png",
       "ServerIP": "movistar.hombre.tk",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
@@ -108,7 +108,7 @@
 {
       "Name": "FIDSYSTEMJORGE ",
       "TYPE": "premium",
-      "FLAG": "br.png",
+      "FLAG": "us.png",
       "ServerIP": "pro.fisistemjorge.xyz",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
@@ -128,15 +128,15 @@
       "PASS": "regalo-humerez"
       },
 {
-      "Name": "Kriss network 443 80 ssl",
+      "Name": "Mina Pro net",
       "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "cris.criis.tk",
+      "FLAG": "us.png",
+      "ServerIP": "us-server.minapronetvpn.com",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "@cri",
-      "PASS": "@crisis"
+      "USER": "mina",
+      "PASS": "@minapronet"
       },
     {
       "Name": "CONECT PLUS 90",
