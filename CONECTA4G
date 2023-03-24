@@ -1,5 +1,5 @@
 {
-  "Version": "67",
+  "Version": "68",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -29,7 +29,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 67",
+      "Name": "Actualizacion 68",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -106,15 +106,15 @@
       "PASS": "@serv1"
       },
 {
-      "Name": "Sshstore 443 80 90",
+      "Name": "FIDSYSTEMJORGE ",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "167.172.86.144",
+      "ServerIP": "pro.fisistemjorge.xyz",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "polito",
-      "PASS": "potiro"
+      "USER": "BOLIVIA",
+      "PASS": "BOLIVIA_77"
       },
 {
       "Name": "HUMEREZ 443 80 90",
