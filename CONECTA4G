@@ -1,5 +1,5 @@
 {
-  "Version": "73",
+  "Version": "74",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -41,7 +41,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 73",
+      "Name": "Actualizacion 74",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -159,7 +159,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "FOCUSSEx",
-      "PASS": "FPS0057v1"
+      "PASS": "	FPS0057v1"
       },
 {
       "Name": "I TUNNELVPN 443 wlq",
