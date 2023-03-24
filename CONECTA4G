@@ -1,5 +1,5 @@
 {
-  "Version": "69",
+  "Version": "71",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -26,10 +26,19 @@
     {
       "Porta": "7600"
     },    
+{
+      "Porta": "7700"
+    },    
+{
+      "Porta": "7800"
+    },    
+{
+      "Porta": "7900"
+    },    
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 69",
+      "Name": "Actualizacion 71",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -119,7 +128,7 @@
 {
       "Name": "HUMEREZ 443 80 90",
       "TYPE": "premium",
-      "FLAG": "br.png",
+      "FLAG": "us.png",
       "ServerIP": "162.212.155.245",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
