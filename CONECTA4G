@@ -1,16 +1,17 @@
 {
+
   "Version": "78",
-  "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
+  "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
-  "Sms": "",
-  "EmailFeedback": "",
-  "UrlContato": "",
-  "UrlTermos": "",
-  "CheckUser": "true", 
+  "Sms": "http://veraszk.verazd90.shop/sms.php",
+  "EmailFeedback": "@gmail.com",
+  "UrlContato": "https://wa.me/qr/HPLNNY3V4IHSO1",
+  "UrlTermos": "http://veraszk.verszd90.shop/apps/termos.php",
+  "CheckUser": "true",
   "Udp": [
     {
-       "Porta": "7300;7500;7100;7200;7400;7600;7700;7800;7900"
-    },    
+      "Porta": "7300;7500;7100;7200;7400;7600;7700;7800;7900"
+    }
   ],
  "Servers": [ 
 {
