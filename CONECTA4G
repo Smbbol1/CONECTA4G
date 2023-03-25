@@ -1,6 +1,6 @@
 {
 
-  "Version": "78",
+  "Version": "79",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 78",
+      "Name": "Actualizacion 79",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -158,15 +158,15 @@
       "PASS": "@serv1"
     },
 {
-      "Name": "FENIX VIVA FREE FREE WLQ",
+      "Name": "HTTP TEAM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "fz.fenix23.tk",
+      "ServerIP": "http3.teamuser.online",
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "fenix2",
-      "PASS": "634771123"
+      "USER": "Axel2733",
+      "PASS": "@hacker27"
     }
   ],
 "Networks": [
