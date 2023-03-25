@@ -1,5 +1,5 @@
 {
-  "Version": "76",
+  "Version": "77",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -41,7 +41,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 76",
+      "Name": "Actualizacion 77",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -162,15 +162,15 @@
       "PASS": "FPS0057v1"
       },
 {
-      "Name": "I TUNNELVPN 443 wlq",
+      "Name": "MEGALODON",
       "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "67.205.143.9",
+      "FLAG": "us.png",
+      "ServerIP": "megalodonssh.online",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "mrxspeed",
-      "PASS": "@gatico1"
+      "USER": "mega10",
+      "PASS": "mega10"
       },
     {
       "Name": "IRON SPEED 90",
