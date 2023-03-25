@@ -1,5 +1,5 @@
 { 
-  "Version": "6", 
+  "Version": "7", 
   "ReleaseNotes": "Nova atualização disponível! 😁 ", 
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/NetFree%20Mx%204G",  
   "Sms": "https://bitbin.it/FNM1TTuT/raw/",  
@@ -11,43 +11,274 @@
       "Porta": "7300"
     }
   ],
-  "Servers": [
-    
-    { 
-      "Name": " Cloudred 443 ", 
-      "TYPE": "premium", 
-      "FLAG": "br.png", 
-      "ServerIP": "144.22.54.124", 
-      "CheckUser": "http://51.222.8.207:8181/checkUser", 
-      "ServerPort": "22", 
-      "SSLPort": "443", 
-      "USER": "Peru", 
-      "PASS": "Peru"      
+   "Servers": [ 
+{
+      "Name": "Actualizacion 78",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+      },
+{
+      "Name": "NO X VPN 443 80",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "br1.servidoresvtssh.xyz",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Vitor30",
+      "PASS": "30300"
+      },
+{
+      "Name": "NEMESIS 443 80",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "testchil.pruebaenteldb.xyz",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "demo123o",
+      "PASS": "@nemesis@"
+      },
+{
+      "Name": "GUAJIRO 443 80",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "tigo.guajirocol-4k.tk",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "guajiro20",
+      "PASS": "guajiro20"
+      },
+{
+      "Name": "FENIX ",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "fxx.fenix223.tk",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "fenix2",
+      "PASS": "634771123"
+      },
+     {
+      "Name": "MEXICO NET 443",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "mx.antoniomx.online",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "papa",
+      "PASS": "papa"
+      },
+{
+      "Name": "IRON SPEED",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "movistar.hombre.tk",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "UserNew",
+      "PASS": "@serv1"
+      },
+{
+      "Name": "FIDSYSTEMJORGE ",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "pro.fisistemjorge.xyz",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "BOLIVIA",
+      "PASS": "BOLIVIA_77"
+      },
+{
+      "Name": "HUMEREZ 443 80 90",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "162.212.155.245",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "telegram",
+      "PASS": "regalo-humerez"
+      },
+{
+      "Name": "Mina Pro net",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "us-server.minapronetvpn.com",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "mina",
+      "PASS": "@minapronet"
+      },
+    {
+      "Name": "FOCUS VPN",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "tigo3.netfireword.ml",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "TigoGtNue",
+      "PASS": "FPS0057v1"
+      },
+{
+      "Name": "MEGALODON",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "megalodonssh.online",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "mega10",
+      "PASS": "mega10"
+      },
+    {
+      "Name": "IRON SPEED 90",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "143.198.154.4",
+      "CheckUser": "http://20.206.160.241:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "90",
+      "USER": "UserNew",
+      "PASS": "@serv1"
     },
-{ 
-      "Name": "new",
-      "TYPE": "premium", 
-      "FLAG": "br.png", 
-      "ServerIP": "144.22.54.124", 
-      "CheckUser": "http://51.222.8.207:8181/checkUser", 
-      "ServerPort": "22", 
-      "SSLPort": "443", 
-      "USER": "Peru", 
-      "PASS": "Peru"      
+{
+      "Name": "FENIX VIVA FREE FREE WLQ",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "fz.fenix23.tk",
+      "CheckUser": "http://20.206.160.241:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "fenix2",
+      "PASS": "634771123"
     }
-  ], 
-  "Networks": [ 
-       { 
-            "Name": "instagram 443", 
-            "FLAG": "vivo.png", 
-            "Payload": "GET / HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "instagram.com", 
-            "TlsIP": "144.22.54.124", 
-            "ProxyIP": "", 
-            "ProxyPort": "443", 
-            "Info": "Tlsws" 
-        },
-        {
+  ],
+"Networks": [
+{
+      "Name": "ENTEL FREE All 80",
+      "FLAG": "CLARO",
+      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "www.speedtest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "NETFLIX All 443",
+      "FLAG": "CLARO",
+      "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "npca.netflix.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+     },
+{
+      "Name": "ENTEL FREE NEMESIS 80",
+      "FLAG": "CLARO",
+      "Payload": "GET ws://testchil.pruebaenteldb.xyz HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "www.speedtest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE Criss 80",
+      "FLAG": "CLARO",
+      "Payload": "GET ws://cris.criis.tk HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "www.speedtest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE ALL MEXICO 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://mx.antoniomx.online HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.209.12",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE Hydra 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://kamatera.eradigital.ga/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.209.12",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE Guajiro 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://tigo.vpnguajiro-co.tk/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.209.12",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE ALL Humerez 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://grupo.clientefree.ga/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.209.12",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "ENTEL FREE ALL sshstore 80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://usaws2.sshstores.vip/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.209.12",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+      {
+      "Name": "youtube 443 ssl",
+      "FLAG": "CLARO",
+      "Payload": "",
+      "SNI": "youtube.com",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Ssl"
+     },
+{
+      "Name": "ENTEL FREE  80",
+      "FLAG": "CLARO",
+      "Payload": "GET s://krissnetworklatam.streamkriss.online/ HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "krissnetworklatam.streamkriss.online",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
             "Name": "ENTEL FREE",
             "FLAG": "vivo.png",
             "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]", 
@@ -57,727 +288,81 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
-        {
-            "Name": "vivo PROXY 02 ",
-            "FLAG": "vivo.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
-            "ProxyPort": "80",
-             "Info": "Proxy"
-        },
-        {
-            "Name": "vivo PROXY 01",
-            "FLAG": "vivo.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "help.livestream.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "vivo PROXY 02 ",
-            "FLAG": "vivo.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: veraszk5.website[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "vivo.pngmusica.vivo.png.com.br",
-            "ProxyPort": "80",
-             "Info": "Proxy"
-        },
-        {
-            "Name": "vivo PROXY 03",
-            "FLAG": "vivo.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "help.livestream.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "vivo PROXY 04",
-            "FLAG": "vivo.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "help.livestream.com",
-            "ProxyPort": "80",
-             "Info": "Proxy"
-        },  
-        {
-            "Name": "🇧🇷 vivo TODOS OS DDDS 🇧🇷",
-            "FLAG": "vivo.png",
-            "Payload": "GET-CONTROL ws://[app_host] HTTP/1.1[crlf]Host: assine.vivo.png.com.br[crlf]Proxy-Connection: Keep-Alive[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "104.16.51.111",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "🇧🇷 vivo TODOS OS DDDS 🇧🇷",
-            "FLAG": "vivo.png",
-            "Payload": "GET-CONTROL ws://[app_host] HTTP/1.1[crlf]Host: assine.vivo.png.com.br[crlf]Proxy-Connection: Keep-Alive[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "104.16.53.111",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
 {
-"Name":"vivo TLS 💚01",
-"FLAG":"vivo.png",
-"Payload":"TRUE-CONTROL / [protocol][crlf]Host: veraszk.veraszk5.website[crlf]Upgrade: websocket[crlf][crlf]",
-"SNI":"veraszk.veraszk5.website",
-"TlsIP":"104.16.53.111",
-"ProxyIP":"",
-"ProxyPort":"443",
-"Info":"Tlsws"
-},
-{
-"Name":"vivo TLS 💚02",
-"FLAG":"vivo.png",
-"Payload":"TRUE-CONTROL / [protocol][crlf]Host: veraszk.veraszk5.website[crlf]Upgrade: websocket[crlf][crlf]",
-"SNI":"veraszk.veraszk5.website",
-"TlsIP":"104.16.53.111",
-"ProxyIP":"",
-"ProxyPort":"443",
-"Info":"Tlsws"
-},
-{
-"Name": "vivo TLS 💚03",
-"FLAG": "vivo.png",
-"Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:veraszk.veraszk5.website[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+"Name": "ENTEL FREE WLQ 90",
+"FLAG": "CLARO",
+"Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "104.16.53.111",
-"ProxyPort": "80",
-"Info": "Proxy" 
-   },
-    {
-      "Name": "vivo  ON 01✅",
-      "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:[app_host][split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.51.111",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-   },
-    {
-      "Name": "vivo  ON 02✅",
-      "FLAG": "vivo.png",
-      "Payload": "GET-TOPSPEED wss://[app_host]/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]TOPSPEED[crlf][crlf]",
-      "SNI": "[app_host]",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "vivo  ON 03✅",
-      "FLAG": "vivo.png",
-      "Payload": "GET-TOPSPEED wss://[app_host]/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]TOPSPEED[crlf][crlf]",
-      "SNI": "[app_host]",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"  
-    },
-    {
-      "Name": "vivo FRONT✅️1",
-      "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3r9zjce5kqd87.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.139.166.70",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "vivo FRONT✅️2",
-      "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3r9zjce5kqd87.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.png.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "vivo FRONT✅️3",
-      "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3r9zjce5kqd87.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "52.85.213.82",
-      "ProxyIP": "52.85.213.82",
-      "ProxyPort": "80",
-      "Info": "Proxy"        
+"ProxyIP": "[app_host]",
+"ProxyPort": "90",
+"Info": "Direct"
 },
-{
-            "Name": "TIM SALDO VALIDO (status rápida)",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host:landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-},
-{
-    "Name": "TIM 1",
-      "FLAG": "tim.png",
-      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",    "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.19.239.25",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
-{
-    "Name": "TIM 2",
-      "FLAG": "tim.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.53.111",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
-{
-    "Name": "TIM 3",
-      "FLAG": "tim.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.53.111",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
-{
-      "Name": "TIM 4",
-      "FLAG": "tim.png",
-      "Payload": "GET ssl://www.gpeasynet.com HTTP/1.1[crlf]Host: [app_host]: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "veraszk.veraszk5.website",
-      "ProxyPort": "80",
-      "Info": " Proxy"
-},
-{
-"Name": "TIM 5",
-"FLAG": "tim.png",
-"Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:veraszk.veraszk5.website[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+     {
+"Name": "YOUTUBE 90",
+"FLAG": "CLARO",
+"Payload": "GET / HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "104.18.28.182",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-        {
-            "Name": "TIM 6",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.19.239.25",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-              "Name": "TIM 7",
-              "FLAG": "tim.png",
-              "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: veraszk.veraszk5.website[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-             "SNI": "",
-             "TlsIP": "104.16.53.111",
-             "ProxyIP": "",
-             "ProxyPort": "80",
-             "Info": "Direct"
-        },
-        {
-            "Name": "TIM 8",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.19.239.25",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM 9",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM 10",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM 11",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.19.239.25",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-              "Name": "TIM 12",
-              "FLAG": "tim",
-              "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: veraszk.veraszk5.website[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-             "SNI": "",
-             "TlsIP": "104.16.53.111",
-             "ProxyIP": "",
-             "ProxyPort": "80",
-             "Info": "Direct"
-        },
-        {
-             "Name": "TIM 13",
-             "FLAG": "tim",
-             "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com ; mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com ; myspace .com ; mobile.google.com ;1.0.0.5[crlf]", 
-             "SNI": "209.14.136.93", 
-             "TlsIP":"", 
-             "ProxyIP": "209.14.70.44", 
-             "ProxyPort": "80", 
-             "Info": "Proxy"
-        },
-        {
-            "Name": "TIM 14",
-            "FLAG": "tim",
-            "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "209.14.70.44",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM 15",
-            "FLAG": "tim",
-            "Payload": "GET / HTTP/1.1\nHost: cdn.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: veraszk.veraszk5.website \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.19.239.25",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM 16",
-            "FLAG": "tim",
-            "Payload": "GET / HTTP/1.1\nHost: cdn.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: veraszk.veraszk5.website \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.19.239.25",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-    },
-    {
-             "Name": "TIM 17",
-             "FLAG": "tim",
-             "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com ; mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com ; myspace .com ; mobile.google.com ;1.0.0.5[crlf]", 
-             "SNI": "209.14.136.93", 
-             "TlsIP":"", 
-             "ProxyIP": "209.14.70.44", 
-             "ProxyPort": "80", 
-             "Info": "Proxy"
-        },
-{
-             "Name": "TIM 18",
-             "FLAG": "tim",
-             "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com ; mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com ; myspace .com ; mobile.google.com ;1.0.0.5[crlf]", 
-             "SNI": "209.14.136.93", 
-             "TlsIP":"", 
-             "ProxyIP": "209.14.70.44", 
-             "ProxyPort": "80", 
-             "Info": "Proxy"
-    },
-    {   
-"Name": "TIM 19",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: jar-del-net1.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    { 
-      "Name": "TIM 20",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: jar-del-net1.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "104.19.239.25",
-      "ProxyIP": "",
-      "ProxyPort": "80",
-      "Info": "Direct"
-   },
-    { 
-      "Name": "TIM 21",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: jar-del-net1.online\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
-      "SNI": "",
-      "TlsIP": "104.19.239.25",
-      "ProxyIP": "104.19.239.25",
-      "ProxyPort": "80",
-      "Info": "Direct"
-   },
-    {  
-"Name": "TIM 22",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: top.jardelnet.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    { 
-      "Name": "TIM  23",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: top.jardelnet.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "104.19.239.25",
-      "ProxyIP": "",
-      "ProxyPort": "80",
-      "Info": "Direct"
-   },
-    { 
-      "Name": "TIM 24",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: top.jardelnet.online\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
-      "SNI": "",
-      "TlsIP": "104.19.239.25",
-      "ProxyIP": "104.19.239.25",
-      "ProxyPort": "80",
-      "Info": "Direct"
-   },
-  {
-      "Name": "TIM EXP  1",
-      "FLAG": "tim",
-      "Payload": "MERGE indexer10.sjc.northshore.akamai.com HTTP/2.0[crlf]Host: indexer10.sjc.northshore.akamai.com [crlf]Connection: upgrade, Keep-Alive-Status 101[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)@mateuscmf[crlf]Referer: http://www.google.com[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM EXP 2",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH www.reddit.com HTTP/1.0[crlf]Host: www.reddit.com[crlf]",
-      "SNI": "api.onesignal.com",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name":"TIM EXP 3",
-      "FLAG": "tim",
-      "Payload":"ACL HTTP/2[crlf]Host: plus.google.com[crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM EXP 4",
-      "FLAG": "tim",
-      "Payload": "PROPFIND m.youtube.com.br HTTP/1.1[crlf]Host: m.youtube.com.br[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM EXP 5",
-      "FLAG": "tim", 
-      "Payload": "ACL HTTP/1.1[lf]Host: google.es[lf]",
-      "SNI": "209.14.70.44",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM EXP 6",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM EXP 7",
-      "FLAG": "tim",
-      "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: mobile.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
-      "SNI": "",
-      "TlsIP": "mobile.adobe.com",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM EXP 8",
-      "FLAG": "tim",
-      "Payload": "MERGE indexer10.sjc.northshore.akamai.com HTTP/2.0[crlf]Host: indexer10.sjc.northshore.akamai.com [crlf]Connection: upgrade, Keep-Alive-Status 101[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)@mateuscmf[crlf]Referer: http://www.google.com[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM EXP 9",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH www.reddit.com HTTP/1.0[crlf]Host: www.reddit.com[crlf]",
-      "SNI": "api.onesignal.com",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name":"TIM EXP 10",
-      "FLAG": "tim",
-      "Payload":"ACL HTTP/2[crlf]Host: plus.google.com[crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM EXP 11 ",
-      "FLAG": "tim",
-      "Payload": "PROPFIND m.youtube.com.br HTTP/1.1[crlf]Host: m.youtube.com.br[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM EXP 12",
-      "FLAG": "tim", 
-      "Payload": "ACL HTTP/1.1[lf]Host: google.es[lf]",
-      "SNI": "140.238.144.84",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM EXP 13",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM EXP 14",
-      "FLAG": "tim",
-      "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: mobile.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
-      "SNI": "",
-      "TlsIP": "mobile.adobe.com",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
- {
-      "Name": " OI UOL",
-      "FLAG": "OI",
-      "Payload": "GET wss://www.noticiasdatv.uol.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "www.noticiasdatv.uol.com.br",
-      "TlsIP": "104.16.55.91",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-{
-"Name": "🟡 OI 02 ON",
-"FLAG": "oi",
-"Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-"SNI": "www.hbogo.com.br",
-"TlsIP": "104.16.53.91",
 "ProxyIP": "",
-"ProxyPort": "",
-"Info": "Tlsws"
+"ProxyPort": "90",
+"Info": "Direct"
 },
 {
-"Name": "🟡 OI 03 ON",
-"FLAG": "oi",
-"Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-"SNI": "www.hbogo.com.br",
-"TlsIP": "www.hbogo.com.br",
-"ProxyIP": "",
-"ProxyPort": "",
-"Info": "Tlsws"
-   },
+      "Name": "youtube WLQ 443",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",  
+      "SNI": "youtube.com",  
+      "TlsIP": "[app_host]",  
+      "ProxyIP": "",  
+      "ProxyPort": "443",  
+      "Info": "Tlsws" 
+ },
 {
-      "Name": "TIM 1 EXPIRADO VIP",
-      "FLAG": "tim",
-      "Payload": "MERGE indexer10.sjc.northshore.akamai.com HTTP/2.0[crlf]Host: indexer10.sjc.northshore.akamai.com [crlf]Connection: upgrade, Keep-Alive-Status 101[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)@mateuscmf[crlf]Referer: http://www.google.com[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM 2 EXPIRADO VIP",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH www.reddit.com HTTP/1.0[crlf]Host: www.reddit.com[crlf]",
-      "SNI": "api.onesignal.com",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name":"TIM 3 EXPIRADO VIP",
-      "FLAG": "tim",
-      "Payload":"ACL HTTP/2[crlf]Host: plus.google.com[crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM 4 EXPIRADO VIP",
-      "FLAG": "tim",
-      "Payload": "PROPFIND m.youtube.com.br HTTP/1.1[crlf]Host: m.youtube.com.br[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM 5 EXPIRADO VIP",
-      "FLAG": "tim", 
-      "Payload": "ACL HTTP/1.1[lf]Host: google.es[lf]",
-      "SNI": "209.14.70.44",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM 6 EXPIRADO VIP",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM 7 EXPIRADO VIP",
-      "FLAG": "tim",
-      "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: mobile.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
-      "SNI": "",
-      "TlsIP": "mobile.adobe.com",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM 1 EXPIRADO PREMIUM",
-      "FLAG": "tim",
-      "Payload": "MERGE indexer10.sjc.northshore.akamai.com HTTP/2.0[crlf]Host: indexer10.sjc.northshore.akamai.com [crlf]Connection: upgrade, Keep-Alive-Status 101[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)@mateuscmf[crlf]Referer: http://www.google.com[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM 2 EXPIRADO PREMIUM",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH www.reddit.com HTTP/1.0[crlf]Host: www.reddit.com[crlf]",
-      "SNI": "api.onesignal.com",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name":"TIM 3 EXPIRADO PREMIUM",
-      "FLAG": "tim",
-      "Payload":"ACL HTTP/2[crlf]Host: plus.google.com[crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM 4 EXPIRADO PREMIUM",
-      "FLAG": "tim",
-      "Payload": "PROPFIND m.youtube.com.br HTTP/1.1[crlf]Host: m.youtube.com.br[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM 5 EXPIRADO PREMIUM",
-      "FLAG": "tim", 
-      "Payload": "ACL HTTP/1.1[lf]Host: google.es[lf]",
-      "SNI": "209.14.70.44",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM 6 EXPIRADO PREMIUM",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM 7 EXPIRADO PREMIUM",
-      "FLAG": "tim",
-      "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: mobile.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
-      "SNI": "",
-      "TlsIP": "mobile.adobe.com",
-      "ProxyIP": "209.14.70.44",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-
-    },
-    
-    
-    ] 
+      "Name": "VIVA FREE FREE",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: fz.fenix23.tk[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "fz.fenix23.tk",  
+      "TlsIP": "vivabolivia.zendesk.com",  
+      "ProxyIP": "",  
+      "ProxyPort": "443",  
+      "Info": "Tlsws" 
+ },
+{
+      "Name": "ENTEL FAST",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade, HTTP2-Settings
+ > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",  
+      "TlsIP": "",  
+      "ProxyIP": "",  
+      "ProxyPort": "90",  
+      "Info": "Direct" 
+ },
+{
+      "Name": "MEGA CLASSES 443",  
+      "FLAG": "CLARO",  
+      "Payload": "GET / HTTP/1.1[crlf]Host: micuenta.entel.bo[crlf]Connection: Upgrade, HTTP2-Settings
+ > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "micuenta.entel.bo",  
+      "TlsIP": "",  
+      "ProxyIP": "",  
+      "ProxyPort": "443",  
+      "Info": "Tlsws" 
+ }
+  ]
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
