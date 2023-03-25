@@ -1,5 +1,5 @@
 {
-  "Version": "75",
+  "Version": "76",
   "ReleaseNotes": "NOVA  ATUALIZA��OCORRE�� NOVOS PROXY TIM ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -41,7 +41,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 75",
+      "Name": "Actualizacion 76",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -154,12 +154,12 @@
       "Name": "FOCUS VPN",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "vpnusa.netfireword.ml",
+      "ServerIP": "tigo3.netfireword.ml",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "FOCUSSEx",
-      "PASS": "	FPS0057v1"
+      "USER": "TigoGtNue",
+      "PASS": "FPS0057v1"
       },
 {
       "Name": "I TUNNELVPN 443 wlq",
