@@ -1,6 +1,6 @@
 {
 
-  "Version": "79",
+  "Version": "81",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 79",
+      "Name": "Actualizacion 81",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -149,7 +149,7 @@
     {
       "Name": "IRON SPEED 90",
       "TYPE": "premium",
-      "FLAG": "br.png",
+      "FLAG": "us.png",
       "ServerIP": "143.198.154.4",
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
@@ -158,9 +158,20 @@
       "PASS": "@serv1"
     },
 {
+      "Name": "FOX MASTER",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "colombia-net.tk",
+      "CheckUser": "http://20.206.160.241:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "90",
+      "USER": "freeone",
+      "PASS": "freeones"
+    },
+{
       "Name": "HTTP TEAM",
       "TYPE": "premium",
-      "FLAG": "br.png",
+      "FLAG": "us.png",
       "ServerIP": "http3.teamuser.online",
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
