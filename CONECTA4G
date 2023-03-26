@@ -1,6 +1,6 @@
 {
 
-  "Version": "82",
+  "Version": "83",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 82",
+      "Name": "Actualizacion 83",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -147,15 +147,15 @@
       "PASS": "mega10"
       },
     {
-      "Name": "vacio",
+      "Name": "TUNNEL SRC",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "143.198.154.4",
+      "ServerIP": "vps.navegando.tk",
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "UserNew",
-      "PASS": "@serv1"
+      "USER": "GRUPOX",
+      "PASS": "GRUPOX"
     },
 {
       "Name": "FOX MASTER",
