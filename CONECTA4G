@@ -1,6 +1,6 @@
 {
 
-  "Version": "85",
+  "Version": "86",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 85",
+      "Name": "Actualizacion 86",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -169,7 +169,7 @@
       "PASS": "freeones"
     },
 {
-      "Name": "LION VPN",
+      "Name": "LION VPN Ssl",
       "TYPE": "premium",
       "FLAG": "us.png",
       "ServerIP": "applite.lion-vpn.fun",
@@ -177,7 +177,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "uduwuf82j",
-      "PASS": "	uduwuf82j"
+      "PASS": "uduwuf82j"
     },
 {
       "Name": "HTTP TEAM",
@@ -213,14 +213,14 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "ENTEL FREE NEMESIS 80",
+      "Name": "NETFLIX ALL SSL",
       "FLAG": "CLARO",
-      "Payload": "GET ws://testchil.pruebaenteldb.xyz HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
+      "Payload": "",
+      "SNI": "netflix.com",
       "TlsIP": "",
-      "ProxyIP": "www.speedtest.net",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Ssl"
      },
 {
       "Name": "ENTEL FREE Criss 80",
