@@ -1,6 +1,6 @@
 {
 
-  "Version": "84",
+  "Version": "85",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 84",
+      "Name": "Actualizacion 85",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -177,7 +177,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "uduwuf82j",
-      "PASS": "uduwuf82j"
+      "PASS": "	uduwuf82j"
     },
 {
       "Name": "HTTP TEAM",
