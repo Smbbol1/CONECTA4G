@@ -1,6 +1,6 @@
 {
 
-  "Version": "83",
+  "Version": "84",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 83",
+      "Name": "Actualizacion 84",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -167,6 +167,17 @@
       "SSLPort": "443",
       "USER": "freeone",
       "PASS": "freeones"
+    },
+{
+      "Name": "LION VPN",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "applite.lion-vpn.fun",
+      "CheckUser": "http://20.206.160.241:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "uduwuf82j",
+      "PASS": "uduwuf82j"
     },
 {
       "Name": "HTTP TEAM",
