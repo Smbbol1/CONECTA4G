@@ -1,6 +1,6 @@
 {
 
-  "Version": "87",
+  "Version": "88",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 87",
+      "Name": "Actualizacion 88",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -46,6 +46,17 @@
       "SSLPort": "443",
       "USER": "demo123o",
       "PASS": "@nemesis@"
+      },
+{
+      "Name": "HTTP REQUEST BR",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "brssl.tunnelvpn.com.br",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Test",
+      "PASS": "@NewPass"
       },
 {
       "Name": "GUAJIRO 443 80",
