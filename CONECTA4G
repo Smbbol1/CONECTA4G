@@ -1,6 +1,6 @@
 {
 
-  "Version": "89",
+  "Version": "91",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 89",
+      "Name": "Actualizacion 91",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -128,12 +128,12 @@
       "Name": "Mina Pro net",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "us-server.minapronetvpn.com",
+      "ServerIP": "br-server.minapronetvpn.com",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "mina",
-      "PASS": "@minapronet"
+      "USER": "opLhjxieia",
+      "PASS": "KQiSwlAbi"
       },
     {
       "Name": "FOCUS VPN",
