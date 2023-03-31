@@ -1,6 +1,6 @@
 {
 
-  "Version": "91",
+  "Version": "92",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 91",
+      "Name": "Actualizacion 92",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -67,7 +67,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "guajiro20",
-      "PASS": "guajiro20"
+      "PASS": "@guajiro20"
       },
 {
       "Name": "FENIX ",
