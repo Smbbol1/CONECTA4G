@@ -1,6 +1,6 @@
 {
 
-  "Version": "92",
+  "Version": "93",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 92",
+      "Name": "Actualizacion 93",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -106,12 +106,12 @@
       "Name": "FIDSYSTEMJORGE ",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "pro.fisistemjorge.xyz",
+      "ServerIP": "vpn.fidsistenjorge.tk",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "BOLIVIA",
-      "PASS": "BOLIVIA_77"
+      "PASS": "T.ME/FIDSYSTEMJORGE"
       },
 {
       "Name": "HUMEREZ 443 80 90",
