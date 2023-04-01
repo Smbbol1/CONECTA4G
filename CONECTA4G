@@ -1,6 +1,6 @@
 {
 
-  "Version": "94",
+  "Version": "95",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 94",
+      "Name": "Actualizacion 95",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -35,6 +35,17 @@
       "SSLPort": "443",
       "USER": "Vitor30",
       "PASS": "30300"
+      },
+{
+      "Name": "DHOM VPN PRO",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "canada.dhoomvpnplus.shop",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "opLhjxieia",
+      "PASS": "KQiSwlAbi"
       },
 {
       "Name": "NEMESIS 443 80",
