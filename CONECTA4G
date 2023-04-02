@@ -1,6 +1,6 @@
 {
 
-  "Version": "102",
+  "Version": "103",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 102",
+      "Name": "Actualizacion 103",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -29,11 +29,11 @@
       "Name": "TUNNELDOG VPN",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "br1.servidoresvtssh.xyz",
+      "ServerIP": "vps.cloufrontdanzo.tk",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "banco0",
+      "USER": "banco00",
       "PASS": "memodias55"
       },
 {
