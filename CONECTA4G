@@ -1,6 +1,6 @@
 {
 
-  "Version": "106",
+  "Version": "107",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 106",
+      "Name": "Actualizacion 107",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -161,7 +161,7 @@
       "Name": "FIDSYSTEMJORGE ",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "vpn.fidsistenjorge.tk",
+      "ServerIP": "veloz3.fidsistenjorge.tk",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
