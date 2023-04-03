@@ -1,6 +1,6 @@
 {
 
-  "Version": "109",
+  "Version": "110",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 109",
+      "Name": "Actualizacion 110",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -132,8 +132,8 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "tunnel-wkk",
-      "PASS": "@VfnTfG8QDX0u"
+      "USER": "wakko-app",
+      "PASS": "@DnLr5vLIUSje"
       },
      {
       "Name": "MEXICO NET 443",
