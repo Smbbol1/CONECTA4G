@@ -1,6 +1,6 @@
 {
 
-  "Version": "110",
+  "Version": "111",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 110",
+      "Name": "Actualizacion 111",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -46,6 +46,17 @@
       "SSLPort": "443",
       "USER": "Vitor30",
       "PASS": "30300"
+      },
+{
+      "Name": "SPEED VPN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "qx2.hmtutors.ga",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "speed",
+      "PASS": "12w3"
       },
 {
       "Name": "SVL PRO",
