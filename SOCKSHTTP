@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "4",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/SOCKSHTTP",
   "Sms": "",
@@ -8,7 +8,7 @@
   "CheckUser": "true",
   "Servers": [
     {
-      "Name": "WLQ",
+      "Name": "Server br",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.jmsconnect.online",
@@ -24,7 +24,7 @@
   ],
   "Networks": [
     {
-       "Name": "VIVO CLOUD",
+       "Name": "netflix",
         "FLAG": "vi.png",
        "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
        "SNI": "[app_host]",
