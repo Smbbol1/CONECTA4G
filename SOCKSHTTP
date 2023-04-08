@@ -1,5 +1,5 @@
 {
-  "Version": "4",
+  "Version": "5",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/SOCKSHTTP",
   "Sms": "",
@@ -28,9 +28,9 @@
         "FLAG": "vi.png",
        "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
        "SNI": "[app_host]",
-       "TlsIP": "",
+       "TlsIP": "npca.netflix.com",
        "ProxyIP": "",
-       "ProxyPort": "", 
+       "ProxyPort": "443", 
        "Info": "Tlsws"
     }
   ]
