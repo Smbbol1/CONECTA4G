@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "",
@@ -11,27 +11,27 @@
       "Name": "WLQ",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "rpnet.site",
+      "ServerIP": "br1.jmsconnect.online",
       "CheckUser": "http://54.39.161.221:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "UdpPort": "7300",
        "Dns1": "1.1.1.1",
        "Dns2": "1.0.0.1",       
-      "USER": "",
-      "PASS": ""
+      "USER": "googleads",
+      "PASS": "googleads"
     }
   ],
   "Networks": [
     {
        "Name": "VIVO CLOUD",
         "FLAG": "vi.png",
-       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-       "SNI": "",
+       "Payload": "GET w://br1.jmsconnect.online/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+       "SNI": "[app_host]",
        "TlsIP": "",
-       "ProxyIP": "104.16.51.111",
-       "ProxyPort": "80", 
-       "Info": "Proxy"
+       "ProxyIP": "",
+       "ProxyPort": "", 
+       "Info": "Tlsws"
     }
   ]
 }
