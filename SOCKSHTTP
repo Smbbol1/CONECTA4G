@@ -1,5 +1,5 @@
 {
-  "Version": "5",
+  "Version": "6",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/SOCKSHTTP",
   "Sms": "",
@@ -11,15 +11,15 @@
       "Name": "Server br",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br1.jmsconnect.online",
+      "ServerIP": "vps.cloufrontdanzo.tk",
       "CheckUser": "http://54.39.161.221:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "UdpPort": "7300",
        "Dns1": "1.1.1.1",
        "Dns2": "1.0.0.1",       
-      "USER": "googleads",
-      "PASS": "googleads"
+      "USER": "banco00",
+      "PASS": "memodias55"
     }
   ],
   "Networks": [
