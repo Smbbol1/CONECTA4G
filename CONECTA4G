@@ -1,6 +1,6 @@
 {
 
-  "Version": "114",
+  "Version": "115",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 114",
+      "Name": "Actualizacion 115",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -35,6 +35,17 @@
       "SSLPort": "443",
       "USER": "banco00",
       "PASS": "memodias55"
+      },
+{
+      "Name": "HACKER net",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "ca02.hmtutors.ga",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "hacker",
+      "PASS": "12w3"
       },
 {
       "Name": "NO X VPN 443 80",
