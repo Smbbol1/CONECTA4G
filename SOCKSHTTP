@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/SOCKSHTTP",
   "Sms": "https://bitbin.it/inq1S5zu/raw/",
@@ -12,7 +12,7 @@
       "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "och.natan4g.tk",
+      "ServerIP": "kimsoft.gq",
       "App_checkuser": "http://144.22.158.159:5454/checkUser",
       "app_online": "http://servidor01.sockslite.com:8888/server/online",
       "ServerPort": "22",
@@ -20,8 +20,8 @@
       "UdpPort": "7300",
        "Dns1": "1.1.1.1",
        "Dns2": "1.0.0.1",       
-      "USER": "",
-      "PASS": ""
+      "USER": "smkplusteam",
+      "PASS": "001smkteam"
     },
     {
       "Name": "SERVIDOR BR ARM CLARO SSL E FLUKE BR",
@@ -41,13 +41,13 @@
   ],
   "Networks": [
         {
-   "Name": "VIVO PROXY 01",
+   "Name": "netflix",
       "FLAG": "vivo",
-      "Payload": "GET-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.51.111",
-      "ProxyPort": "80",
+      "Payload": "GET w://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "marketingvideo.pc.netflix.net",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "443",
+      "ProxyPort": "",
       "Info": "Proxy"
     },
     {
