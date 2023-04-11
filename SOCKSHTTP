@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "4",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/SOCKSHTTP",
   "Sms": "https://bitbin.it/inq1S5zu/raw/",
@@ -45,10 +45,10 @@
       "FLAG": "vivo",
       "Payload": "GET w://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "marketingvideo.pc.netflix.net",
-      "TlsIP": "[app_host]",
+      "TlsIP": "172.64.80.1",
       "ProxyIP": "443",
       "ProxyPort": "",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
     {
       "Name": "VIVO PROXY 02",
