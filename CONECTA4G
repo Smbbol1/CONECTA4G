@@ -1,6 +1,6 @@
 {
 
-  "Version": "119",
+  "Version": "121",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 119",
+      "Name": "Actualizacion 121",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -249,11 +249,11 @@
       "Name": "FOCUS VPN",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "tigo3.netfireword.ml",
+      "ServerIP": "se3vull.netfireword.ml",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "TigoGtNue",
+      "USER": "JuegosTigo",
       "PASS": "FPS0057v1"
       },
 {
