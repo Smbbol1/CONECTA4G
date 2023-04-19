@@ -1,6 +1,6 @@
 {
 
-  "Version": "124",
+  "Version": "125",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 124",
+      "Name": "Actualizacion 125",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -355,14 +355,14 @@
       "Info": "Proxy"
      },
 {
-      "Name": "ENTEL FREE Criss 80",
+      "Name": "INSTAGRAM 443",
       "FLAG": "CLARO",
-      "Payload": "GET ws://cris.criis.tk HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "instagram.com",
       "TlsIP": "",
-      "ProxyIP": "www.speedtest.net",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
      },
 {
       "Name": "ENTEL FREE ALL MEXICO 80",
