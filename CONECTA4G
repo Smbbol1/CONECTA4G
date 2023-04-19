@@ -1,6 +1,6 @@
 {
 
-  "Version": "125",
+  "Version": "126",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 125",
+      "Name": "Actualizacion 126",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -360,8 +360,8 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "instagram.com",
       "TlsIP": "",
-      "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "443",
       "Info": "Tlsws"
      },
 {
