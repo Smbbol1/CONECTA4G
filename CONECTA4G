@@ -1,6 +1,6 @@
 {
 
-  "Version": "122",
+  "Version": "123",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 122",
+      "Name": "Actualizacion 123",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -345,14 +345,14 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "NETFLIX ALL SSL",
+      "Name": "INSTAGRAM ALL SSL",
       "FLAG": "CLARO",
-      "Payload": "",
-      "SNI": "netflix.com",
-      "TlsIP": "",
+      "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: instagram.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "instagram.com",
       "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Ssl"
+      "ProxyPort": "443",
+      "Info": "Tlsws"
      },
 {
       "Name": "ENTEL FREE Criss 80",
