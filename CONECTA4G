@@ -1,6 +1,6 @@
 {
 
-  "Version": "127",
+  "Version": "128",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 127",
+      "Name": "Actualizacion 128",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -150,7 +150,7 @@
       "Name": "NEMESIS 443 80",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "testchil.pruebaenteldb.xyz",
+      "ServerIP": "free.vps2-prominex.xyz",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -365,14 +365,14 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "ENTEL FREE ALL MEXICO 80",
+      "Name": "INSTAGRAM SSL",
       "FLAG": "CLARO",
-      "Payload": "GET s://mx.antoniomx.online HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
+      "Payload": "",
+      "SNI": "instagram.com",
       "TlsIP": "",
-      "ProxyIP": "104.16.209.12",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Ssl"
      },
 {
       "Name": "ENTEL FREE Hydra 80",
