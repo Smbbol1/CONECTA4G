@@ -1,6 +1,6 @@
 {
 
-  "Version": "128",
+  "Version": "129",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 128",
+      "Name": "Actualizacion 129",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -66,8 +66,8 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "sslmundo",
-      "PASS": "freetotal09"
+      "USER": "argentina",
+      "PASS": "trwn6808"
       },
 {
       "Name": "HACKER net",
@@ -347,7 +347,7 @@
 {
       "Name": "INSTAGRAM ALL 80",
       "FLAG": "CLARO",
-      "Payload": "GET / HTTP/1.1[crlf]Host: www.instagram.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET s://[app_host]/ HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "[app_host]",
