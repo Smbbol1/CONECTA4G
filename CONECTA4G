@@ -1,6 +1,6 @@
 {
 
-  "Version": "134",
+  "Version": "135",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 134",
+      "Name": "Actualizacion 135",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -33,8 +33,8 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "machi1",
-      "PASS": "memodias55"
+      "USER": "semana1",
+      "PASS": "freegates"
       },
 {
       "Name": "TUNNELDOG VPN",
@@ -398,7 +398,7 @@
 {
       "Name": "VIVA FREE2",
       "FLAG": "CLARO",
-      "Payload": ""GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.16.53.111",
       "ProxyIP": "",
