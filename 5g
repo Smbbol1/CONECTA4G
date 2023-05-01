@@ -1,129 +1,58 @@
 {
-  "Version": "11",
-  "ReleaseNotes": "Atualização disponível",
-  "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
-  "Sms": "",
-  "LogoLink": "",
-  "BackgroundLink": "https:\/\/i.imgur.com\/B2WcMBk.jpg",
+  "Version": "1.0",
+  "ReleaseNotes": "OBA PARECE QIE TEMOS UMA ATUALIZAÇÃO DO SISTEMA\nATUALIZE PARA PODER USAR O APLICATIVO",
+  "UrlUpdate": "https://bitbin.it/YSvF3uai/raw/",
+  "Sms": "https://bitbin.it/inq1S5zu/raw/",
+  "LogoLink": "https://techvpn.ml/imgshare/uploads/ic_banner.png",
+  "BackgroundLink": "https://techvpn.ml/imgshare/uploads/50269521-bee4-4bf5-8b1d-8b42cd4eeb1c.jpg",
   "CheckUser": "true",
+  "app_online": "true",
   "Udp": [
-    {
-      "Porta": "7300"
-    }
-  ],
+        {
+            "Porta": "7200"
+        },
+        {
+            "Porta": "7300"
+        },
+        {
+            "Porta": "7400"
+        },
+        {
+            "Porta": "7500"
+        },
+        {
+            "Porta": "7600"
+        }
+    ],
   "Servers": [
     {
-      "Name": "Auto",
+      "Name": "ATUALIZE SEU APP PARA USAR",
       "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "interbhmg.whtk",
-      "CheckUser": "http://interbheymg.tk:81/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
+      "FLAG": "image_2.png",
+      "ServerIP": "",
+      "ServerPort": "",
+      "SSLPort": "",
+      "UdpPort": "",
+       "Dns1": "",
+       "Dns2": "",       
       "USER": "",
-      "PASS": ""
+      "PASS": "",
+      "CheckUser": "",
+      "App_mensagem": "ATUALIZE PARA USAR"
     }
   ],
   "Networks": [
-    {
-       "Name": "VIVO[1]",
-        "FLAG": "vivo.png",
-        "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-        "SNI": "",
-        "TlsIP": "",
-        "ProxyIP": "104.16.51.111",
-        "ProxyPort": "80",
-        "Info": "Proxy"
-        },
         {
-      "Name": "PRE [2]", 
-      "FLAG": "vivo.png", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: [host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",  
-      "SNI": "", 
-      "TlsIP": "104.16.51.111", 
-      "ProxyIP": "104.16.51.111", 
-      "ProxyPort": "80", 
-      "Info": "Proxy" 
-        },
-        {
-            "Name": "PRE [VELOZ]",
-            "FLAG": "vivo.png",
-            "Payload": "GET / HTTP/1.1\r\nHost:  [host]\r\nOrigin: https://www.google.com, http://www.google.com\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\nUpgrade: Websocket\r\nConnection: Keep-Alive, Upgrade\r\n\r\n",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.51.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "EASY [DIRECT]",
-            "FLAG": "vivo.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host:  [host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.7.41",
-            "ProxyPort": "80",
-            "Info": "Direct"
-        },
-       {
-      "Name": "🔥VIVO🔥cloudfront🔥1🔥 ",
-      "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dlvrbalbavkxc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+   "Name": "ATUALIZE SEU APP PARA USAR",
+      "FLAG": "image_2.png",
+      "Payload": "",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "🔥VIVO🔥cloudfront🔥2🔥 ",
-      "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dlvrbalbavkxc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-        },
-        {
-            "Name": "TIM1",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1[lf]Host:landing.stoodi.com.br[lf]:[lf][split][lf]GET- / HTTP/1.1[lf]Host:  [host][lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-      "Name": "TIM2 ",
-      "FLAG": "tim.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host:  [host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "helpypro.stoodi.com.br",
-      "ProxyIP": "104.16.53.111",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-        },
-        {
-            "Name": "TIM",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: creatorsupport.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host:  [host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "104.16.51.111",
-            "ProxyIP": "104.16.51.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM",
-            "FLAG": "tim.png",
-            "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1 [crlf]Host:  [host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html) [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "104.19.239.25",
-            "ProxyIP": "104.19.239.25",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        }
-      ]
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": ""
+     }
+    ]
 }
+
+
