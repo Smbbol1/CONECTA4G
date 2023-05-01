@@ -1,8 +1,8 @@
 {
   "Version": "2",
   "ReleaseNotes": "OBA PARECE QIE TEMOS UMA ATUALIZAÇÃO DO SISTEMA\nATUALIZE PARA PODER USAR O APLICATIVO",
-  "UrlUpdate": "https://bitbin.it/YSvF3uai/raw/",
-  "Sms": "https://bitbin.it/inq1S5zu/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/5g",
+  "Sms": "https://bitin.it/inq1S5zu/raw/",
   "LogoLink": "https://techvpn.ml/imgshare/uploads/ic_banner.png",
   "BackgroundLink": "https://techvpn.ml/imgshare/uploads/50269521-bee4-4bf5-8b1d-8b42cd4eeb1c.jpg",
   "CheckUser": "true",
