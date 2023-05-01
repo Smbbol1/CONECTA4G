@@ -1,6 +1,6 @@
 {
 
-  "Version": "144",
+  "Version": "145",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 144",
+      "Name": "Actualizacion 145",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -40,12 +40,23 @@
       "Name": "TUNNEL CORE V2",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "stsnoload.amaun.xyz",
+      "ServerIP": "servidor1.b-corp.xyz",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "Tunnelcorejakol",
       "PASS": "Tunnelcorejakol"
+      },
+{
+      "Name": "B-CORP VPN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "stsnoload.amaun.xyz",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "elsalvador",
+      "PASS": "mrrobotvw516"
       },
 {
       "Name": "PRO DARK VPN",
