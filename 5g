@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "OBA PARECE QIE TEMOS UMA ATUALIZAÇÃO DO SISTEMA\nATUALIZE PARA PODER USAR O APLICATIVO",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/5g",
   "Sms": "https://bitin.it/inq1S5zu/raw/",
@@ -26,7 +26,7 @@
     ],
   "Servers": [
     {
-      "Name": "VIVA FREE 80",
+      "Name": "B-Corp vpn",
       "TYPE": "premium",
       "FLAG": "image_2.png",
       "ServerIP": "servidor1.b-corp.xyz",
@@ -43,7 +43,7 @@
   ],
   "Networks": [
         {
-   "Name": "ATUALIZE SEU APP PARA USAR",
+   "Name": "VIVA 80",
       "FLAG": "image_2.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Expect: 100-continue[crlf][crlf]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
