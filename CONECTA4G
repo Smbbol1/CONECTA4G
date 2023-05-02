@@ -1,6 +1,6 @@
 {
 
-  "Version": "147",
+  "Version": "148",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 147",
+      "Name": "Actualizacion 148",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -46,6 +46,17 @@
       "SSLPort": "443",
       "USER": "Tunnelcorejakol",
       "PASS": "Tunnelcorejakol"
+      },
+{
+      "Name": "PANDAX VPN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "co.navegando.tk",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "PANDAX",
+      "PASS": "PANDAX"
       },
 {
       "Name": "B-CORP VPN",
