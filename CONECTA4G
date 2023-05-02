@@ -1,6 +1,6 @@
 {
 
-  "Version": "148",
+  "Version": "149",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 148",
+      "Name": "Actualizacion 149",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -128,12 +128,12 @@
       "Name": "Infinito http",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "internacional.gokurey.online",
+      "ServerIP": "vip.gokurey.online",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "argentina",
-      "PASS": "trwn6808"
+      "USER": "sapotestkwhs",
+      "PASS": "ratassos"
       },
 {
       "Name": "HACKER net",
