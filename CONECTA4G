@@ -1,6 +1,6 @@
 {
 
-  "Version": "158",
+  "Version": "159",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 158",
+      "Name": "Actualizacion 159",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -35,6 +35,17 @@
       "SSLPort": "443",
       "USER": "semana1",
       "PASS": "freegates"
+      },
+      {
+      "Name": "ZEDTUNNNEL vpn",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "nyv2ray.zedtunnel.com",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Zedtunnelpro2",
+      "PASS": "Zico4real123"
       },
       {
             "Name": "INTERCOL WORLD",
