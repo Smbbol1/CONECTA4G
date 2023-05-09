@@ -36,6 +36,17 @@
       "USER": "semana1",
       "PASS": "freegates"
       },
+      {
+            "Name": "INTERCOL WORLD",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "premiumbr.intervpn.tk",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Michell",
+      "PASS": "Sao040290"
+      },
 {
       "Name": "CREEBTECH vpn",
       "TYPE": "free",
