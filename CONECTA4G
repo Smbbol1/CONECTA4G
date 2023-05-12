@@ -1,6 +1,6 @@
 {
 
-  "Version": "163",
+  "Version": "164",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 163",
+      "Name": "Actualizacion 164",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -46,6 +46,17 @@
       "SSLPort": "443",
       "USER": "Zedtunnelpro2",
       "PASS": "Zico4real123"
+      },
+      {
+      "Name": "HTTP NEXPLUS",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "co.navegando.tk",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "PANDAX_CO16",
+      "PASS": "NEXPLUS"
       },
       {
             "Name": "INTERCOL WORLD",
