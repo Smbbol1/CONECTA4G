@@ -1,6 +1,6 @@
 {
 
-  "Version": "165",
+  "Version": "167",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 165",
+      "Name": "Actualizacion 167",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -35,6 +35,17 @@
       "SSLPort": "443",
       "USER": "semana1",
       "PASS": "freegates"
+      },
+      {
+      "Name": "TEAMDAVID VPN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "teamdavid.tk",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "teamdavid",
+      "PASS": "teamdavid"
       },
       {
       "Name": "ZEDTUNNNEL vpn",
