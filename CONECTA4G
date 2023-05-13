@@ -370,11 +370,11 @@
       "Name": "FIDSYSTEMJORGE ",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "veloz3.fidsistenjorge.tk",
+      "ServerIP": "vpn.fidsistenjorge.tk",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "BOLIVIA",
+      "USER": "COLOMBIA",
       "PASS": "T.ME/FIDSYSTEMJORGE"
       },
 {
