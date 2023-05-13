@@ -436,11 +436,11 @@
       "Name": "CLOUDRED",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "websocket.cloudredvpn.es",
+      "ServerIP": "websocket.cloudredvpn.com",
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Argentina",
+      "USER": "Ecuador",
       "PASS": "123456"
     },
 {
