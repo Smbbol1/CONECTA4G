@@ -392,12 +392,12 @@
       "Name": "Mina Pro net",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "br-server.minapronetvpn.com",
+      "ServerIP": "us-server.minapronetvpn.com",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "MinaServer",
-      "PASS": "MinaServer"
+      "USER": "tunneledoz",
+      "PASS": "tunneledozy"
       },
     {
       "Name": "FOCUS VPN",
