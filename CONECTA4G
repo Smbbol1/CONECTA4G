@@ -249,12 +249,12 @@
       "Name": "AUSTRO PLUS",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "kimsoft.gq",
+      "ServerIP": "us03.tunnelvpn.com.br",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "smkplusteam",
-      "PASS": "001smkteam"
+      "USER": "Http",
+      "PASS": "Tunnel"
       },
 {
       "Name": "SVL PRO",
