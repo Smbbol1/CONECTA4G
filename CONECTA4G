@@ -1,6 +1,6 @@
 {
 
-  "Version": "173",
+  "Version": "174",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 173",
+      "Name": "Actualizacion 174",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -35,6 +35,17 @@
       "SSLPort": "443",
       "USER": "semana1",
       "PASS": "freegates"
+      },
+      {
+      "Name": "EC Tunnel lite",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "wslite1.ectunnelvpn.me",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "userlite",
+      "PASS": "https://t.me/entclasschannel/"
       },
       {
       "Name": "Net Boa",
