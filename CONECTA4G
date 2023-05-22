@@ -40,7 +40,7 @@
       "Name": "Net mexico",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "mx.antoniomx.online",
+      "ServerIP": "netmexico.antoniomx.online",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
