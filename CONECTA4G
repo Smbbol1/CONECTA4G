@@ -1,6 +1,6 @@
 {
 
-  "Version": "182",
+  "Version": "183",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 182",
+      "Name": "Actualizacion 183",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -447,7 +447,7 @@
       "Name": "Mina Pro net",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "us-server.minapronetvpn.com",
+      "ServerIP": "us-servers.minapronetvpn.com",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
