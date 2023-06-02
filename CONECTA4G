@@ -315,12 +315,12 @@
       "Name": "AUSTRO PLUS",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "us03.tunnelvpn.com.br",
+      "ServerIP": "tigo.vpnguajiro-co.tk",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Http",
-      "PASS": "Tunnel"
+      "USER": "guajiroxx",
+      "PASS": "@guajiroxx"
       },
 {
       "Name": "SVL PRO",
