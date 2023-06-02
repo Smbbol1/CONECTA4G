@@ -1,0 +1,72 @@
+{
+    "Servers":[
+        
+    ],
+    "WarningMsg":"",
+    "SecuredShellPort":"22",
+    "SecuredShellDropbearPort":"80",
+    "SecuredShellSSLPort":"443",
+    "OpenVpnTCPPort":"1194",
+    "OpenVpnUDPPort":"7300",
+    "OpenVpnSSLPort":"443",
+    "SquidPort":"8080",
+    "ConfigCertOvpn":"",
+    "OpenVpnAddLine":"ULTRACONEXAO",
+    "WarnMsg":"ED7B68535C996EE1E4D68FA753FA5633",
+    "ReleaseNotes":[
+        "Anyvpn Mod",
+        "2",
+        "ANYVPN MOD\n\nEntre em: @anyvpnmod\n\n"
+    ],
+    "VIP":"vip",
+    "UrlUpdate":"https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA%20ANYVPN%20PRO",
+    "Link":"https://google.com",
+    "Saudacao":"SEJA BEM VINDO A ANYVPNMOD",
+    "LinkIcone":"",
+    "LinkBanner":"",
+    "LinkBackground":"https://i.ibb.co/pyGRVwq/20230601-100833.png",
+    "LinkVideo":"sim",
+    "Dnspp":"nao",
+    "Hostpp":"nao",
+    "Networks":[
+        {
+            "Name":"wl2222⚡",
+            "Servidor":":7200;7300;7100;7400",
+            "SPort":"",
+            "Prox":"52.85.213.68:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: d3or8erh40kozp.cloudfront.net[crlf]Coction: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "UrlPainel":"https://vitao.anyvpn.online",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"FRONT:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"VIVO LIGHT 2 ⚡",
+            "Servidor":":7200;7300;7100;7400",
+            "SPort":"",
+            "Prox":"recarga.vivo.com.br:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: d3or8erh40kozp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "UrlPainel":"https://vitao.anyvpn.online",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"FRONT:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        }
+    ],
+    "ConfigVersion":2
+}
