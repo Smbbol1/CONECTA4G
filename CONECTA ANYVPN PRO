@@ -45,7 +45,7 @@
             "VPNMod":0,
             "VPNTunMod":1,
             "Info":"FRONT:vivo",
-            "DefaultProxy":true,
+            "DefaultProxy":true
             "CustomSquid":""
         },
         {
@@ -54,7 +54,7 @@
             "SPort":"",
             "Prox":"recarga.vivo.com.br:80",
             "Payload":"GET / HTTP/1.1[crlf]Host: d3or8erh40kozp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "Direct":"",
+            "Dir
             "Sni":"",
             "Payssl":"",
             "Certopen":"",
@@ -68,5 +68,4 @@
             "CustomSquid":""
         }
     ],
-    "ConfigVersion":2
-}
+  
