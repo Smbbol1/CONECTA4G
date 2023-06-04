@@ -15,11 +15,11 @@
     "WarnMsg":"ED7B68535C996EE1E4D68FA753FA5633",
     "ReleaseNotes":[
         "MULTSERVIDOR 4G",
-        "480",
+        "0",
         "MULTSERVIDOR 4G\n\nEntre em: @MULT_SERVIDOR_4G\n\n"
     ],
     "VIP":"vip",
-    "UrlUpdate":"https://bitbin.it/tIJOEc4T/raw/",
+    "UrlUpdate":"https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/ANYVPN%20MILTI",
     "Link":"https://google.com",
     "Saudacao":"SEJA BEM VINDO AO MULTSERVIDOR4G",
     "LinkIcone":"https://i.ibb.co/mDtqN9F/IMG-20230602-002434-679.jpg",
@@ -30,7 +30,7 @@
     "Hostpp":"nao",
     "Networks":[
         {
-            "Name":"VIVO LIGHT 1 ⚡",
+            "Name":"wlq 1 ⚡",
             "Servidor":":7200;7300;7100;7400",
             "SPort":"",
             "Prox":"104.16.51.111:80",
@@ -68,5 +68,5 @@
             "CustomSquid":""
         }
     ],
-    "ConfigVersion":480
+    "ConfigVersion":0
 }
