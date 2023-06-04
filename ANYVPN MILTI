@@ -1,0 +1,72 @@
+{
+    "Servers":[
+        
+    ],
+    "WarningMsg":"",
+    "SecuredShellPort":"22",
+    "SecuredShellDropbearPort":"80",
+    "SecuredShellSSLPort":"443",
+    "OpenVpnTCPPort":"1194",
+    "OpenVpnUDPPort":"7300",
+    "OpenVpnSSLPort":"443",
+    "SquidPort":"8080",
+    "ConfigCertOvpn":"",
+    "OpenVpnAddLine":"ULTRACONEXAO",
+    "WarnMsg":"ED7B68535C996EE1E4D68FA753FA5633",
+    "ReleaseNotes":[
+        "MULTSERVIDOR 4G",
+        "480",
+        "MULTSERVIDOR 4G\n\nEntre em: @MULT_SERVIDOR_4G\n\n"
+    ],
+    "VIP":"vip",
+    "UrlUpdate":"https://bitbin.it/tIJOEc4T/raw/",
+    "Link":"https://google.com",
+    "Saudacao":"SEJA BEM VINDO AO MULTSERVIDOR4G",
+    "LinkIcone":"https://i.ibb.co/mDtqN9F/IMG-20230602-002434-679.jpg",
+    "LinkBanner":"https://i.ibb.co/mDtqN9F/IMG-20230602-002434-679.jpg",
+    "LinkBackground":"https://i.ibb.co/QXHg2hy/images-2.png",
+    "LinkVideo":"sim",
+    "Dnspp":"nao",
+    "Hostpp":"nao",
+    "Networks":[
+        {
+            "Name":"VIVO LIGHT 1 ⚡",
+            "Servidor":":7200;7300;7100;7400",
+            "SPort":"",
+            "Prox":"104.16.51.111:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: br.multservidor4g.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "UrlPainel":"https://multservidor4g.shop",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"FRONT:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        },
+        {
+            "Name":"VIVO LIGHT 2 ⚡",
+            "Servidor":":7200;7300;7100;7400",
+            "SPort":"",
+            "Prox":"104.16.53.111:80",
+            "Payload":"GET / HTTP/1.1[crlf]Host: br.multservidor4g.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+            "Direct":"",
+            "Sni":"",
+            "Payssl":"",
+            "Certopen":"",
+            "Dns1":"",
+            "Dns2":"",
+            "UrlPainel":"https://multservidor4g.shop",
+            "VPNMod":0,
+            "VPNTunMod":1,
+            "Info":"FRONT:vivo",
+            "DefaultProxy":true,
+            "CustomSquid":""
+        }
+    ],
+    "ConfigVersion":480
+}
