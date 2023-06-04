@@ -30,7 +30,7 @@
     "Hostpp":"nao",
     "Networks":[
         {
-            "Name":"wlq 1 ⚡",
+            "Name":"wlq⚡",
             "Servidor":":7200;7300;7100;7400",
             "SPort":"",
             "Prox":"104.16.51.111:80",
@@ -49,7 +49,7 @@
             "CustomSquid":""
         },
         {
-            "Name":"VIVO LIGHT 2 ⚡",
+            "Name":" 2 ⚡",
             "Servidor":":7200;7300;7100;7400",
             "SPort":"",
             "Prox":"104.16.53.111:80",
