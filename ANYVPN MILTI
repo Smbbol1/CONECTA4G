@@ -15,7 +15,7 @@
     "WarnMsg":"ED7B68535C996EE1E4D68FA753FA5633",
     "ReleaseNotes":[
         "MULTSERVIDOR 4G",
-        "0",
+        "1",
         "MULTSERVIDOR 4G\n\nEntre em: @MULT_SERVIDOR_4G\n\n"
     ],
     "VIP":"vip",
@@ -68,5 +68,5 @@
             "CustomSquid":""
         }
     ],
-    "ConfigVersion":0
+    "ConfigVersion":1
 }
