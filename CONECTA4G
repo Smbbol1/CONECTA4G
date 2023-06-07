@@ -1,6 +1,6 @@
 {
 
-  "Version": "186",
+  "Version": "187",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 186",
+      "Name": "Actualizacion 187",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -567,7 +567,7 @@
 {
       "Name": "INSTAGRAM ALL 80",
       "FLAG": "CLARO",
-      "Payload": "GET s://[app_host]/ HTTP/1.1[crlf]Host: instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET s://[app_host]/ HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "[app_host]",
@@ -578,7 +578,7 @@
       "Name": "INSTAGRAM 443",
       "FLAG": "CLARO",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "instagram.com",
+      "SNI": "youtube.com",
       "TlsIP": "[app_host]",
       "ProxyIP": "",
       "ProxyPort": "443",
@@ -588,7 +588,7 @@
       "Name": "INSTAGRAM SSL",
       "FLAG": "CLARO",
       "Payload": "",
-      "SNI": "instagram.com",
+      "SNI": "youtube.com",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "",
