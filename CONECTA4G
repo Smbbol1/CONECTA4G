@@ -37,6 +37,17 @@
       "PASS": "freegates"
       },
       {
+      "Name": "StableNet vpn",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "tigo.domingpro.online",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "stablenet",
+      "PASS": "marionet"
+      },
+      {
       "Name": "HTTP SOCKETCLAY",
       "TYPE": "free",
       "FLAG": "us.png",
