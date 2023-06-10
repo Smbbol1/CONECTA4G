@@ -1,6 +1,6 @@
 {
 
-  "Version": "189",
+  "Version": "191",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 189",
+      "Name": "Actualizacion 191",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -556,14 +556,14 @@
   ],
 "Networks": [
 {
-      "Name": "ENTEL FREE All 80",
+      "Name": "TIGO FREE",
       "FLAG": "CLARO",
-      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "www.speedtest.net",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET / HTTP/1.0[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "P19.zdassets.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
      },
 {
       "Name": "NETFLIX All 443",
