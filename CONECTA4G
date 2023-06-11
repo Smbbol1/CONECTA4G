@@ -1,6 +1,6 @@
 {
 
-  "Version": "191",
+  "Version": "192",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 191",
+      "Name": "Actualizacion 192",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -606,11 +606,11 @@
       "Info": "Ssl"
      },
 {
-      "Name": "VIVA FREE",
+      "Name": "VIVA FREE junio",
       "FLAG": "CLARO",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "104.16.83.55",
+      "TlsIP": "www.xpress.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
