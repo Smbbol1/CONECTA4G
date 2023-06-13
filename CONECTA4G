@@ -1,6 +1,6 @@
 {
 
-  "Version": "201",
+  "Version": "202",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 201",
+      "Name": "Actualizacion 202",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -690,10 +690,10 @@
 {
       "Name": "TIGO FREE 80",
       "FLAG": "CLARO",
-      "Payload": "GET ws://[app_host]  HTTP/1.0[crlf]Host: zoomcares.zoom.us[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "zoomcares.zoom.us",
+      "ProxyIP": "P19.zdassets.com",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
