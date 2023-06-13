@@ -1,6 +1,6 @@
 {
 
-  "Version": "196",
+  "Version": "197",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 196",
+      "Name": "Actualizacion 197",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -24,6 +24,28 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+      },
+{
+      "Name": "MANDARIN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "gatesccn.ventasnetfree.cf",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "semana1",
+      "PASS": "freegates"
+      },
+{
+      "Name": "LM MULTICONEXIONES",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "namew.dev-col.tech",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Juancol1",
+      "PASS": "@Devz15"
       },
 {
       "Name": "MANDARIN",
