@@ -1,6 +1,6 @@
 {
 
-  "Version": "214",
+  "Version": "215",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 214",
+      "Name": "Actualizacion 215",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -183,11 +183,11 @@
             "Name": "INTERCOL WORLD",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "premiumbr.intervpn.tk",
+      "ServerIP": "67.205.159.11",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
+      "ServerPort": "443",
       "SSLPort": "443",
-      "USER": "Michell",
+      "USER": "tibucara",
       "PASS": "Sao040290"
       },
 {
@@ -610,7 +610,7 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "NETFLIX 444",
+      "Name": "NETFLIX ssl",
       "FLAG": "CLARO",
       "Payload": "",
       "SNI": "netflix.com",
