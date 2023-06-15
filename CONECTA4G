@@ -1,6 +1,6 @@
 {
 
-  "Version": "212",
+  "Version": "213",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 212",
+      "Name": "Actualizacion 213",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -442,6 +442,17 @@
       "SSLPort": "443",
       "USER": "wakko-app",
       "PASS": "@DnLr5vLIUSje"
+      },
+{
+      "Name": "HTTP WAKKO 444 ",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "170.187.154.162",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "444",
+      "SSLPort": "444",
+      "USER": "wakko-0614",
+      "PASS": "@u4zNsYvv4f5i"
       },
      {
       "Name": "MEXICO NET 443",
