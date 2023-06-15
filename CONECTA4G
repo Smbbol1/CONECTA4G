@@ -1,6 +1,6 @@
 {
 
-  "Version": "203",
+  "Version": "204",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 203",
+      "Name": "Actualizacion 204",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -535,12 +535,12 @@
       "Name": "CLOUDRED",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "websocket.cloudredvpn.com",
+      "ServerIP": "ws.cloudredvpn.com",
       "CheckUser": "http://20.206.160.241:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Ecuador",
-      "PASS": "123456"
+      "USER": "Tokenizer",
+      "PASS": "Tokenizer"
     },
 {
       "Name": "FOX MASTER",
