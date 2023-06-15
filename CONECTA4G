@@ -1,6 +1,6 @@
 {
 
-  "Version": "206",
+  "Version": "207",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 206",
+      "Name": "Actualizacion 207",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -586,6 +586,16 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
+     },
+{
+      "Name": "NETFLIX 444",
+      "FLAG": "CLARO",
+      "Payload": "",
+      "SNI": "netflix.com",
+      "TlsIP": "143.198.110.110",
+      "ProxyIP": "444",
+      "ProxyPort": "444",
+      "Info": "Ssl"
      },
 {
       "Name": "NETFLIX All 443",
