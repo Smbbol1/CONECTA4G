@@ -1,6 +1,6 @@
 {
 
-  "Version": "215",
+  "Version": "216",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 215",
+      "Name": "Actualizacion 216",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -180,7 +180,7 @@
       "PASS": "NEXPLUS"
       },
       {
-            "Name": "INTERCOL WORLD",
+            "Name": "INTERCOL WORLD SSL",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "67.205.159.11",
