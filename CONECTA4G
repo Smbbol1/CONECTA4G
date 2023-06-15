@@ -1,6 +1,6 @@
 {
 
-  "Version": "211",
+  "Version": "212",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 211",
+      "Name": "Actualizacion 212",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -471,7 +471,7 @@
       "FLAG": "us.png",
       "ServerIP": "143.198.110.110",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
-      "ServerPort": "22",
+      "ServerPort": "444",
       "SSLPort": "444",
       "USER": "tigo",
       "PASS": "@serv1"
