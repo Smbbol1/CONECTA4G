@@ -1,6 +1,6 @@
 {
 
-  "Version": "218",
+  "Version": "219",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 218",
+      "Name": "Actualizacion 219",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -411,15 +411,15 @@
       "PASS": "NewPass"
       },
 {
-      "Name": "GUAJIRO 443 80",
+      "Name": "GUAJIRO",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "paises.guajirocol-4k.tk",
+      "ServerIP": "host.vpnguajiro-co.tk",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "paises21",
-      "PASS": "@paises21"
+      "USER": "guajiroxx",
+      "PASS": "@guajirox"
       },
 {
       "Name": "FENIX ",
