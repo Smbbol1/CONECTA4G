@@ -1,6 +1,6 @@
 {
 
-  "Version": "217",
+  "Version": "218",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 217",
+      "Name": "Actualizacion 218",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -378,15 +378,15 @@
       "PASS": "SADASA"
       },
 {
-      "Name": "DHOM VPN PRO",
+      "Name": "DHOM VPN PRO ssl",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "cloudflare.dhoomvpnpro.cfd",
+      "ServerIP": "209.38.205.200",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
+      "ServerPort": "443",
       "SSLPort": "443",
-      "USER": "dhoom2000",
-      "PASS": "mooa322"
+      "USER": "dhoom20",
+      "PASS": "password"
       },
 {
       "Name": "NEMESIS 443 80",
