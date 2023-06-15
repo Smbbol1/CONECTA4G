@@ -1,6 +1,6 @@
 {
 
-  "Version": "207",
+  "Version": "208",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 207",
+      "Name": "Actualizacion 208",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -462,6 +462,17 @@
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
+      "USER": "tigo",
+      "PASS": "@serv1"
+      },
+{
+      "Name": "IRON SPEED 444",
+      "TYPE": "premium",
+      "FLAG": "us.png",
+      "ServerIP": "front.speedisma.tk",
+      "CheckUser": "http://20.226.4.36:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "444",
       "USER": "tigo",
       "PASS": "@serv1"
       },
