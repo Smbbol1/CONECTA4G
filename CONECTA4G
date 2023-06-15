@@ -1,6 +1,6 @@
 {
 
-  "Version": "209",
+  "Version": "211",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 209",
+      "Name": "Actualizacion 211",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -469,7 +469,7 @@
       "Name": "IRON SPEED 444",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "front.speedisma.tk",
+      "ServerIP": "143.198.110.110",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "444",
@@ -603,9 +603,9 @@
       "FLAG": "CLARO",
       "Payload": "",
       "SNI": "netflix.com",
-      "TlsIP": "143.198.110.110",
-      "ProxyIP": "444",
-      "ProxyPort": "444",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
       "Info": "Ssl"
      },
 {
