@@ -1,6 +1,6 @@
 {
 
-  "Version": "204",
+  "Version": "205",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 204",
+      "Name": "Actualizacion 205",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -458,11 +458,11 @@
       "Name": "IRON SPEED",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "ismael1.nametechcolombia.live",
+      "ServerIP": "front.speedisma.tk",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "peruwpp",
+      "USER": "mexico",
       "PASS": "@serv1"
       },
 {
