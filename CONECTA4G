@@ -1,6 +1,6 @@
 {
 
-  "Version": "222",
+  "Version": "223",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 222",
+      "Name": "Actualizacion 223",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -35,6 +35,17 @@
       "SSLPort": "443",
       "USER": "semana1",
       "PASS": "freegates"
+      },
+{
+      "Name": "CONNECTPLUS ssl",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "144.217.80.161",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "443",
+      "SSLPort": "443",
+      "USER": "juanita",
+      "PASS": "8998"
       },
 {
       "Name": "LM MULTICONEXIONES",
@@ -444,7 +455,7 @@
       "PASS": "@DnLr5vLIUSje"
       },
 {
-      "Name": "HTTP WAKKO 444 ",
+      "Name": "HTTP WAKKO ssl ",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "170.187.154.162",
@@ -455,7 +466,7 @@
       "PASS": "@u4zNsYvv4f5i"
       },
      {
-      "Name": "MEXICO NET 443",
+      "Name": "MEXICO NET ssl",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "mx.antoniomx.online",
@@ -477,7 +488,7 @@
       "PASS": "@serv1"
       },
 {
-      "Name": "IRON SPEED 444",
+      "Name": "IRON SPEED ssl",
       "TYPE": "premium",
       "FLAG": "us.png",
       "ServerIP": "143.198.110.110",
