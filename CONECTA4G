@@ -1,6 +1,6 @@
 {
 
-  "Version": "239",
+  "Version": "241",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 239",
+      "Name": "Actualizacion 241",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -27,6 +27,17 @@
       },
 {
       "Name": "MANDARIN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "gatesccn.ventasnetfree.cf",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "semana1",
+      "PASS": "freegates"
+      },
+{
+      "Name": "MANDARIN2",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "gatesccn.ventasnetfree.cf",
@@ -654,9 +665,19 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "TIGO FREE JUNIO",
+      "Name": "TIGO FREE ON",
       "FLAG": "CLARO",
       "Payload": "GET / HTTP/1.1[crlf]Host: ekr.zdassets.com[crlf][crlf][split]HUMEREZ / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "ekr.zdassets.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "TIGO FREE ON2",
+      "FLAG": "CLARO",
+      "Payload": "POST / HTTP/1.1[crlf]Host: ekr.zdassets.com[crlf]Expect: 100-continue[crlf][crlf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "ekr.zdassets.com",
