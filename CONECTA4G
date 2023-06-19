@@ -1,6 +1,6 @@
 {
 
-  "Version": "241",
+  "Version": "242",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 241",
+      "Name": "Actualizacion 242",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -681,6 +681,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "ekr.zdassets.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "TIGO FREE ON3 Jorge",
+      "FLAG": "CLARO",
+      "Payload": "POST / HTTP/1.1[crlf]Host: tigo.fidsistemjorge.net[crlf]Expect: 100-continue[crlf][crlf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "tigo.fidsistemjorge.net",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
