@@ -1,6 +1,6 @@
 {
 
-  "Version": "243",
+  "Version": "244",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 243",
+      "Name": "Actualizacion 244",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -524,11 +524,11 @@
       "Name": "IRON SPEED",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "front.speedisma.tk",
+      "ServerIP": "ismael1.nametechcolombia.live",
       "CheckUser": "http://20.226.4.36:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "tigo",
+      "USER": "mexico",
       "PASS": "@serv1"
       },
 {
