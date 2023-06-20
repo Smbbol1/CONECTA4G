@@ -1,6 +1,6 @@
 {
 
-  "Version": "242",
+  "Version": "243",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 242",
+      "Name": "Actualizacion 243",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -37,15 +37,15 @@
       "PASS": "freegates"
       },
 {
-      "Name": "MANDARIN2",
+      "Name": "HTTP JENRRI VPN  ",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "gatesccn.ventasnetfree.cf",
+      "ServerIP": "sin.lobito.tech",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "semana1",
-      "PASS": "freegates"
+      "USER": "Jenrri",
+      "PASS": "Jenrri"
       },
 {
       "Name": "Full100 vpn",
