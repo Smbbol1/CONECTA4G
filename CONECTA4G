@@ -1,6 +1,6 @@
 {
 
-  "Version": "248",
+  "Version": "249",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 248",
+      "Name": "Actualizacion 249",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -167,6 +167,17 @@
       "SSLPort": "443",
       "USER": "userlite",
       "PASS": "https://t.me/entclasschannel/"
+      },
+{
+      "Name": "EC Tunnel pro",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "wspro.ectunnelvpn.me",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "userpro",
+      "PASS": "@entclasschannel"
       },
       {
       "Name": "Net Boa",
