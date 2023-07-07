@@ -1,6 +1,6 @@
 {
 
-  "Version": "257",
+  "Version": "258",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 257",
+      "Name": "Actualizacion 258",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -70,7 +70,7 @@
       "PASS": "camisasv2"
       },
 {
-      "Name": "MEGATRON vpn",
+      "Name": "Edvinherdez vpn",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "159.223.161.84",
@@ -81,10 +81,10 @@
       "PASS": "@PUTO"
       },
 {
-      "Name": "Edvinherdez vpn",
+      "Name": "MEGATRON vpn",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "cloud.menmamods.tk",
+      "ServerIP": "",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
