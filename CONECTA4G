@@ -1,6 +1,6 @@
 {
 
-  "Version": "276",
+  "Version": "277",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 276",
+      "Name": "Actualizacion 277",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -24,6 +24,17 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+      },
+{
+      "Name": "MEGATRON vpn",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "cloud.menmamods.tk",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "LEOGUATE",
+      "PASS": "LEGION"
       },
 {
       "Name": "HTTP NEBULA VPN",
@@ -112,17 +123,6 @@
       "SSLPort": "443",
       "USER": "PUTO",
       "PASS": "@PUTO"
-      },
-{
-      "Name": "MEGATRON vpn",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "",
-      "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "CLOUD",
-      "PASS": "@CLOUD"
       },
 {
       "Name": "CONNECTPLUS ssl",
