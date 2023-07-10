@@ -1,6 +1,6 @@
 {
 
-  "Version": "275",
+  "Version": "276",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 275",
+      "Name": "Actualizacion 276",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -73,7 +73,7 @@
       "Name": "Hacker net",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "free1.downloadblackgames.tech",
+      "ServerIP": "free2.downloadblackgames.tech",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
