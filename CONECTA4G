@@ -1,6 +1,6 @@
 {
 
-  "Version": "287",
+  "Version": "288",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 287",
+      "Name": "Actualizacion 288",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -779,6 +779,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "callinghelp.webex.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
+      "Name": "TELE-EDUCA ENTEL 4 mio",
+      "FLAG": "CLARO",
+      "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: gost-bk.zoom.us[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "gost-bk.zoom.us",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
