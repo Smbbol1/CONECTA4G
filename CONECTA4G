@@ -1,6 +1,6 @@
 {
 
-  "Version": "281",
+  "Version": "282",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 281",
+      "Name": "Actualizacion 282",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -139,12 +139,12 @@
       "Name": "Full100 vpn",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "elvervpn.alexisvps.tk",
+      "ServerIP": "sdzk.vpssv.tk",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "camisasv",
-      "PASS": "camisasv2"
+      "USER": "saul",
+      "PASS": "deras"
       },
 {
       "Name": "Edvinherdez vpn",
