@@ -1,6 +1,6 @@
 {
 
-  "Version": "282",
+  "Version": "283",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 282",
+      "Name": "Actualizacion 283",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -35,6 +35,17 @@
       "SSLPort": "443",
       "USER": "clarowaze",
       "PASS": "claro@12"
+      },
+{
+      "Name": "HTTP INTERNACIONAL IP",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "20.109.121.161",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "HPPEH",
+      "PASS": "@RICARDO"
       },
 {
       "Name": "HTTP ELVER VPN",
@@ -772,12 +783,12 @@
       "Info": "Proxy"
      },
 {
-      "Name": "TELE-EDUCA ENTEL Ip 80",
+      "Name": "TELE-EDUCA ENTEL IP",
       "FLAG": "CLARO",
-      "Payload": "GET / HTTP/1.0[crlf]Host: gomarketplacecontent-cf.zoom.us[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET ws://gomarketplacecontent-cf.zoom.us:80/ HTTP/1.1 Host: [app_host][upws]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "[app_host]",
+      "ProxyIP": "gomarketplacecontent-cf.zoom.us",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
