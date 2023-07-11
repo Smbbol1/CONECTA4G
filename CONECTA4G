@@ -1,6 +1,6 @@
 {
 
-  "Version": "286",
+  "Version": "287",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 286",
+      "Name": "Actualizacion 287",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -785,7 +785,7 @@
 {
       "Name": "TELE-EDUCA ENTEL IP",
       "FLAG": "CLARO",
-      "Payload": "GET / HTTP/1.1[lf]Host: gomarketplacecontent-cf.zoom.us[lf][lf][split]GET / HTTP/1.1[crlf]Host: gomarketplacecontent-cf.zoom.us[lf][upws][lf][lf]",
+      "Payload": "GET ws://gomarketplacecontent-cf.zoom.us:80/ HTTP/1.1[crlf]Host: 20.109.121.161[upws][crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "[app_host]",
