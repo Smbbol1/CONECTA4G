@@ -1,6 +1,6 @@
 {
 
-  "Version": "288",
+  "Version": "289",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 288",
+      "Name": "Actualizacion 289",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -167,6 +167,17 @@
       "SSLPort": "443",
       "USER": "PUTO",
       "PASS": "@PUTO"
+      },
+{
+      "Name": "SOCKETCLAY vpn",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "141.193.213.11",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Originalmrxspeed",
+      "PASS": "Original@gatico1"
       },
 {
       "Name": "CONNECTPLUS ssl",
@@ -793,9 +804,9 @@
       "Info": "Proxy"
      },
 {
-      "Name": "TELE-EDUCA ENTEL IP",
+      "Name": "TELE-EDUCA ENTEL socketcay IP Mix",
       "FLAG": "CLARO",
-      "Payload": "GET ws://gomarketplacecontent-cf.zoom.us:80/ HTTP/1.1[crlf]Host: 20.109.121.161[upws][crlf][crlf]",
+      "Payload": "GET w://fusionfront.conexionesclay.com/ HTTP/1.2[crlf]Host: gomarketplacecontent-cf.zoom.us[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "[app_host]",
