@@ -764,6 +764,16 @@
       "Info": "Tlsws"
      },
 {
+      "Name": "TELE-EDUCA ENTEL FAST",
+      "FLAG": "CLARO",
+      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: us01st-cf.zoom.us[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "us01st-cf.zoom.us",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+{
       "Name": "TELE-EDUCA ENTEL",
       "FLAG": "CLARO",
       "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: gomarketplacecontent-cf.zoom.us[crlf]Upgrade: websocket[crlf][crlf]",
