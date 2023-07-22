@@ -1,6 +1,6 @@
 {
 
-  "Version": "299",
+  "Version": "301",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 299",
+      "Name": "Actualizacion 301",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -35,6 +35,17 @@
       "SSLPort": "443",
       "USER": "clarowaze",
       "PASS": "claro@12"
+      },
+{
+      "Name": "TEAM VPN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "http1.teamuser.online",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "axel",
+      "PASS": "@teamuser"
       },
 {
       "Name": "REY VPN",
