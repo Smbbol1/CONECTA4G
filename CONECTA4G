@@ -1,6 +1,6 @@
 {
 
-  "Version": "307",
+  "Version": "308",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 307",
+      "Name": "Actualizacion 308",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -820,14 +820,14 @@
   ],
 "Networks": [
 {
-      "Name": "TIGO FREE 443",
+      "Name": "TELEEDUCA NEW 1",
       "FLAG": "CLARO",
-      "Payload": "GET / HTTP/1.0[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "[app_host]",
-      "TlsIP": "P19.zdassets.com",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: us01st-source-cf.zoom.us[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "source-cf.zoom.us",
+      "ProxyPort": "80",
+      "Info": "Proxy"
      },
 {
       "Name": "TELE-EDUCA ENTEL FAST",
