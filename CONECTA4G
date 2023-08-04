@@ -26,6 +26,17 @@
       "PASS": ""
       },
 {
+      "Name": "TUNNEL DOG",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "vps.linodevps.shop",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "police6",
+      "PASS": "policia6"
+      },
+{
       "Name": "Infinito http",
       "TYPE": "free",
       "FLAG": "us.png",
@@ -167,17 +178,6 @@
       "SSLPort": "443",
       "USER": "Mundial",
       "PASS": "Mundial"
-      },
-{
-      "Name": "TUNNEL DOG",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "vps.ovhcloud.shop",
-      "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "frank00",
-      "PASS": "eddy00"
       },
 {
       "Name": "HTTP REQUEST BR",
