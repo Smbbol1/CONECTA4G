@@ -25,7 +25,17 @@
       "USER": "",
       "PASS": ""
       },
-
+{
+      "Name": "HTTP ELVER VPN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "awsvps.alexisvps.tk",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "flare",
+      "PASS": "@13102005"
+      },
 {
       "Name": "Full100 vpn",
       "TYPE": "free",
@@ -135,17 +145,6 @@
       "SSLPort": "443",
       "USER": "HPPEH",
       "PASS": "@RICARDO"
-      },
-{
-      "Name": "HTTP ELVER VPN",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "awsvps.alexisvps.tk",
-      "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "WAZE",
-      "PASS": "@13102005"
       },
 {
       "Name": "ULTRANET LATAM ",
