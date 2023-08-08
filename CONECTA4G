@@ -1,6 +1,6 @@
 {
 
-  "Version": "313",
+  "Version": "314",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -15,7 +15,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 313",
+      "Name": "Actualizacion 314",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -41,12 +41,12 @@
       "Name": "TUNNEL DOG",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "vps.linodevps.shop",
+      "ServerIP": "vps.digitalvps.shop",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "police6",
-      "PASS": "policia6"
+      "USER": "poco04",
+      "PASS": "foco04"
       },
 {
       "Name": "Infinito http",
