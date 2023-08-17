@@ -83,12 +83,12 @@
       "Name": "Full100 vpn",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "cloud.menmamods.tk",
+      "ServerIP": "ca-ws.sshmax.xyz",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "full1001",
-      "PASS": "full1001"
+      "USER": "sshmax-saulderas",
+      "PASS": "2805"
       },
 {
       "Name": "TUNNEL DOG",
