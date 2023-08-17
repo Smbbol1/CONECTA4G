@@ -72,7 +72,7 @@
       "Name": "HTTP ELVER VPN",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "awsvps.alexisvps.tk",
+      "ServerIP": "elvel.teamuser.online",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
