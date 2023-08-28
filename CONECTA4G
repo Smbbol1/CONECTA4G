@@ -1,5 +1,5 @@
 {
-  "Version": "331",
+  "Version": "332",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 331",
+      "Name": "Actualizacion 332",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -61,11 +61,11 @@
       "Name": "ULTRANET LATAM ",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "diamante.emerpatron.tk",
+      "ServerIP": "virus.fnx1.xyz",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "UNL12virus",
+      "USER": "UNL12plus",
       "PASS": "latam"
       },
 {
