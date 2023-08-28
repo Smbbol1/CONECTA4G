@@ -1,5 +1,5 @@
 {
-  "Version": "337",
+  "Version": "338",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 337",
+      "Name": "Actualizacion 338",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -878,10 +878,10 @@
       "FLAG": "CLARO",
       "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: gbwhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "",
-      "ProxyIP": "gbwhatsapp.net",
+      "TlsIP": "gbwhatsapp.net",
+      "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "Ssl"
+      "Info": "Tlsws"
      },
 {
       "Name": "TELEEDUCA NEW 1",
