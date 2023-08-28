@@ -50,7 +50,7 @@
       "Name": "HTTP NEBULA VPN",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "nebulamax.infinitomax.online",
+      "ServerIP": "allnebula.dominiodigitalocean.xyz",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
