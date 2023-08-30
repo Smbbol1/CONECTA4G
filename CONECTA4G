@@ -1,5 +1,5 @@
 {
-  "Version": "339",
+  "Version": "341",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 339",
+      "Name": "Actualizacion 341",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -23,6 +23,17 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+      },
+{
+      "Name": "TUNNEL DOG",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "pro.digitalvps.shop",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "carlos4",
+      "PASS": "galdos4"
       },
 {
       "Name": "SOCKFAST VPN",
@@ -122,17 +133,6 @@
       "SSLPort": "443",
       "USER": "sshmax-saulderas",
       "PASS": "2805"
-      },
-{
-      "Name": "TUNNEL DOG",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "vip.digitalvps.shop",
-      "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "proadm01",
-      "PASS": "proadm1"
       },
 {
       "Name": "Infinito http",
