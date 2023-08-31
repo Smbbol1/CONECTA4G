@@ -1,5 +1,5 @@
 {
-  "Version": "342",
+  "Version": "343",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 342",
+      "Name": "Actualizacion 343",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -876,11 +876,11 @@
 {
       "Name": "WHATSAPP ENTEL",
       "FLAG": "CLARO",
-      "Payload": "GET ws://pro.digitalvps.shop HTTP/1.0[crlf]Host: gbwhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "pro.digitalvps.shop",
+      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: gbwhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
       "TlsIP": "gbwhatsapp.net",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
      },
 {
