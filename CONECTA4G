@@ -1,5 +1,5 @@
 {
-  "Version": "345",
+  "Version": "346",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 345",
+      "Name": "Actualizacion 346",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -901,6 +901,16 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "gbwhatsapp.net",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+     },
+{
+      "Name": "WHATSAPP ENTEL Rotate",
+      "FLAG": "CLARO",
+      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: gbwhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "[rotate=gbwhatsapp.net;app_host]",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
