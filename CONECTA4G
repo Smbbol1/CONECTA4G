@@ -1,5 +1,5 @@
 {
-  "Version": "353",
+  "Version": "354",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 353",
+      "Name": "Actualizacion 354",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -918,8 +918,8 @@
 {
       "Name": "WHATSAPP ENTEL Rotate",
       "FLAG": "CLARO",
-      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: gbwhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "gbwhatsapp.net;[app_host]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=[app_host];393s60g051p328d56m.speedup.mobi;6d5038xn188h7694t3.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "SNI": "gbwhatsapp.net",
       "TlsIP": "gbwhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
