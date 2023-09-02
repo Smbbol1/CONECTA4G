@@ -36,6 +36,28 @@
       "PASS": "galdos4"
       },
 {
+      "Name": "HTTP NEBULA VPN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "allnebula.dominiodigitalocean.xyz",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "clarowaze6",
+      "PASS": "claro@6782-9926 6"
+      },
+{
+      "Name": "ULTRANET LATAM ",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "virus.fnx1.xyz",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "UNL12plus",
+      "PASS": "latam"
+      },
+{
       "Name": "HTTP INTERNET INFINITO",
       "TYPE": "free",
       "FLAG": "us.png",
@@ -113,28 +135,7 @@
       "USER": "RapidVPN",
       "PASS": "Jrvps"
       },
-{
-      "Name": "HTTP NEBULA VPN",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "allnebula.dominiodigitalocean.xyz",
-      "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "clarowaze6",
-      "PASS": "claro@6782-9926 6"
-      },
-{
-      "Name": "ULTRANET LATAM ",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "virus.fnx1.xyz",
-      "CheckUser": "http://51.222.159.64:8181/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "UNL12plus",
-      "PASS": "latam"
-      },
+
 {
       "Name": "HTTP ELVER VPN",
       "TYPE": "free",
