@@ -1,5 +1,5 @@
 {
-  "Version": "359",
+  "Version": "361",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 359",
+      "Name": "Actualizacion 361",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -918,7 +918,7 @@
 {
       "Name": "WHATSAPP ENTEL Rotate2",
       "FLAG": "CLARO",
-      "Payload": "GET http://[rotate=[app_host];gbwhatsapp.net;api.web.whatsapp.com;blog.whatsapp.com;www.whatsapp.com;c.whatsapp.net;m.waze.com;dns.web.whatsapp.com;dns.web.whatsapp.com;m.waze.com;cdn.web.whatsapp.com] HTTP/1.0[crlf]Host: http://[rotate=gbwhatsapp.net;api.web.whatsapp.com;blog.whatsapp.com;www.whatsapp.com;c.whatsapp.net;m.waze.com;dns.web.whatsapp.com;dns.web.whatsapp.com;m.waze.com;cdn.web.whatsapp.com][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade[crlf][crlf]",
+      "Payload": "GET http://[rotate=[app_host];gbwhatsapp.net] HTTP/1.0[crlf]Host: http://[rotate=gbwhatsapp.net;api.web.whatsapp.com;blog.whatsapp.com;www.whatsapp.com;c.whatsapp.net;m.waze.com;dns.web.whatsapp.com;dns.web.whatsapp.com;m.waze.com;cdn.web.whatsapp.com][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "gbwhatsapp.net",
       "ProxyIP": "",
