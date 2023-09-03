@@ -1,5 +1,5 @@
 {
-  "Version": "374",
+  "Version": "375",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 374",
+      "Name": "Actualizacion 375",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -945,7 +945,7 @@
       "Name": "WHATSAPP ENTEL s/b",
       "FLAG": "CLARO",
       "Payload": "OPTIONS ws://[app_host] HTTP/1.1[crlf]Host: zoomcares.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI": "[rotate=gbwhatsapp.net;[app_host]]",
+      "SNI": "[app_host]",
       "TlsIP": "gbwhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
