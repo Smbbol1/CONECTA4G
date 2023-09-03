@@ -1,5 +1,5 @@
 {
-  "Version": "376",
+  "Version": "377",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 376",
+      "Name": "Actualizacion 377",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -45,6 +45,17 @@
       "SSLPort": "443",
       "USER": "fidsistemjorge",
       "PASS": "fidsistemjorge"
+      },
+{
+      "Name": "INTERCOL VPN",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "Intercol.fnx1.xyz",
+      "CheckUser": "http://51.222.159.64:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "tibucara1",
+      "PASS": "ikudevpro"
       },
 {
       "Name": "AUSTRO VPN",
