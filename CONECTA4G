@@ -1,5 +1,5 @@
 {
-  "Version": "378",
+  "Version": "379",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 378",
+      "Name": "Actualizacion 379",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -32,8 +32,8 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "carlos4",
-      "PASS": "galdos4"
+      "USER": "poison11",
+      "PASS": "Poison111"
       },
 {
       "Name": "VPN TUPAK 4G",
