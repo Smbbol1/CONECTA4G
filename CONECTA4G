@@ -1,5 +1,5 @@
 {
-  "Version": "379",
+  "Version": "381",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 379",
+      "Name": "Actualizacion 381",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -957,7 +957,7 @@
       "FLAG": "CLARO",
       "Payload": "OPTIONS ws://[app_host] HTTP/1.1[crlf]Host: zoomcares.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "gbwhatsapp.net",
+      "TlsIP": "yowhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -965,7 +965,7 @@
 {
       "Name": "WHATSAPP ENTEL 80",
       "FLAG": "CLARO",
-      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: gbwhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: yowhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "blog.webex.com",
@@ -975,9 +975,9 @@
 {
       "Name": "WHATSAPP ENTEL",
       "FLAG": "CLARO",
-      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: gbwhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: yowhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "gbwhatsapp.net",
+      "TlsIP": "yowhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -985,9 +985,9 @@
 {
       "Name": "WHATSAPP ENTEL rotate1",
       "FLAG": "CLARO",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [random=[app_host];gbwhatsapp.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [random=[app_host];yowhatsapp.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "gbwhatsapp.net",
+      "TlsIP": "yowhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -997,7 +997,7 @@
       "FLAG": "CLARO",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "gbwhatsapp.net",
+      "TlsIP": "yowhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -1005,9 +1005,9 @@
 {
       "Name": "WHATSAPP ENTEL Rotate2",
       "FLAG": "CLARO",
-      "Payload": "GET http://[rotate=[app_host];gbwhatsapp.net] HTTP/1.0[crlf]Host: [rotate=gbwhatsapp.net;api.web.whatsapp.com;blog.whatsapp.com;www.whatsapp.com;c.whatsapp.net;m.waze.com;dns.web.whatsapp.com;dns.web.whatsapp.com;m.waze.com;cdn.web.whatsapp.com][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade[crlf][crlf]",
+      "Payload": "GET http://[rotate=[app_host];yowhatsapp.net] HTTP/1.0[crlf]Host: [rotate=yowhatsapp.net;api.web.whatsapp.com;blog.whatsapp.com;www.whatsapp.com;c.whatsapp.net;m.waze.com;dns.web.whatsapp.com;dns.web.whatsapp.com;m.waze.com;cdn.web.whatsapp.com][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "gbwhatsapp.net",
+      "TlsIP": "yowhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
