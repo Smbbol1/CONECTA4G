@@ -1,5 +1,5 @@
 {
-  "Version": "382",
+  "Version": "383",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 382",
+      "Name": "Actualizacion 383",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -1015,8 +1015,8 @@
 {
       "Name": "WHATSAPP ROTATE3",
       "FLAG": "CLARO",
-      "Payload": "GET wess://pro.digitalvps.shop HTTP/1.1[crlf]Host: yowhatsapp.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI": "[rotate=yowhatsapp.net;pro.digitalvps.shop]",
+      "Payload": "GET wess://[app_host] HTTP/1.1[crlf]Host: yowhatsapp.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "[rotate=yowhatsapp.net;[app_host]",
       "TlsIP": "yowhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
