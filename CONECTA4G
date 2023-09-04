@@ -1,5 +1,5 @@
 {
-  "Version": "381",
+  "Version": "382",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 381",
+      "Name": "Actualizacion 382",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -1013,14 +1013,14 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "TELEEDUCA NEW 1",
+      "Name": "WHATSAPP ROTATE3",
       "FLAG": "CLARO",
-      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: us01st-source-cf.zoom.us[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "source-cf.zoom.us",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wess://pro.digitalvps.shop HTTP/1.1[crlf]Host: yowhatsapp.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "[rotate=yowhatsapp.net;pro.digitalvps.shop]",
+      "TlsIP": "yowhatsapp.net",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
      },
 {
       "Name": "TELE-EDUCA ENTEL FAST",
