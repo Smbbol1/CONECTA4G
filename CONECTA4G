@@ -1,5 +1,5 @@
 {
-  "Version": "385",
+  "Version": "386",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 385",
+      "Name": "Actualizacion 386",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -963,7 +963,7 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "WHATSAPP ENTEL YO",
+      "Name": "yowhatsapp.net ENTEL",
       "FLAG": "CLARO",
       "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -973,7 +973,7 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "WHATSAPP ENTEL zoom",
+      "Name": "fmwhatsapp.net ENTEL",
       "FLAG": "CLARO",
       "Payload": "OPTIONS ws://[app_host] HTTP/1.1[crlf]Host: zoomcares.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "[app_host]",
