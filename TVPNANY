@@ -19,7 +19,7 @@
         "BEM VINDO AO T VPN"
     ],
     "VIP":"vip",
-    "UrlUpdate":"https://paste.anasor.com/paste.php?raw&id=34",
+    "UrlUpdate":"https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/TVPNANY",
     "Link":"true",
     "Saudacao":"SEJA BEM VINDO A  T VPN",
     "LinkIcone":"",
@@ -30,7 +30,7 @@
     "Hostpp":"nao",
     "Networks":[
         {
-            "Name":"fmwhatsapp.net Dog🔥",
+            "Name":"fmwhatsapp.net vpn Dog🔥",
             "Servidor":":7300;7200;7100;7400",
             "SPort":"",
             "Prox":"fmwhatsapp.net:443",
