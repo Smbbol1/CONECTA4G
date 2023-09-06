@@ -1,5 +1,5 @@
 {
-    "Version": "3",
+    "Version": "4",
     "ReleaseNotes": "╭━─━─≪♦️≫─━─━╮\n
 ⚡ YUMEKO ⚡\n
 ╰━─━─≪♦️≫─━─━╯\n• DATA: 28/05/2023 • VERSÃO: 1 \n⚙️ MODIFICAÇÕES NO APP ⚙️
@@ -52,7 +52,7 @@
     "Servers": [
 
       {
-         "Name":"01 - v1.2 SERVIÇO REV1:\n💲: Yumeko VPN\ncompre seu acesso no PV",
+         "Name":"01 - v1.2 WKO REV1:\n💲: Yumeko VPN\ncompre seu acesso no PV",
          "TYPE":"premium",
          "FLAG":"dr4.png",
          "ServerIP":"r1.minerdxc.tk",
