@@ -1,5 +1,5 @@
 {
-  "Version": "397",
+  "Version": "398",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 397",
+      "Name": "Actualizacion 398",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -1011,6 +1011,26 @@
       "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "yowhatsapp.net",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+     },
+{
+      "Name": "fmwhatsapp.net ENTEL",
+      "FLAG": "CLARO",
+      "Payload": "OPTIONS ws://[app_host] HTTP/1.1[crlf]Host: zoomcares.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "fmwhatsapp.net",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+     },
+{
+      "Name": "fmwhatsapp.net ENTEL rotate",
+      "FLAG": "CLARO",
+      "Payload": "OPTIONS ws://[rotate=[app_host];fmwhatsapp.net] HTTP/1.1[crlf]Host: zoomcares.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "fmwhatsapp.net",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
