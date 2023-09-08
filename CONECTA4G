@@ -1,5 +1,5 @@
 {
-  "Version": "395",
+  "Version": "396",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 395",
+      "Name": "Actualizacion 396",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -989,7 +989,7 @@
       "Name": "FBWHATSAPP S/B",
       "FLAG": "CLARO",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "[app_host]",
+      "SNI": "[rotate=gbwhatsapp.net;[app_host]]",
       "TlsIP": "104.21.5.26",
       "ProxyIP": "",
       "ProxyPort": "",
