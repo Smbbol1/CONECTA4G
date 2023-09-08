@@ -1,5 +1,5 @@
 {
-  "Version": "394",
+  "Version": "395",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 394",
+      "Name": "Actualizacion 395",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -985,6 +985,16 @@
     }
   ],
 "Networks": [
+{
+      "Name": "FBWHATSAPP S/B",
+      "FLAG": "CLARO",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "104.21.5.26",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+     },
 {
       "Name": "WHATSAPP ENTEL s/b",
       "FLAG": "CLARO",
