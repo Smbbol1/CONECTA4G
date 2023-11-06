@@ -1,5 +1,5 @@
 {
-  "Version": "415",
+  "Version": "416",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 412",
+      "Name": "Actualizacion 416",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -28,15 +28,15 @@
       "Name": "REQUEST TUNNEL",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "us01.tunnelvpn.online",
+      "ServerIP": "br01.tunnelvpn.online",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "Http",
-      "PASS": "Plus"
+      "PASS": "@Plus212"
       },
 {
-      "Name": "STABLENET",
+      "Name": "STABLENET NO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "hola.raton.store",
@@ -61,26 +61,26 @@
       "Name": "TUNNEL DOG",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "pro.digitalvps.shop",
+      "ServerIP": "uno.digitalvps.shop",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "guitar0000",
+      "USER": "Danzo0001",
       "PASS": "uA6%s3CKQX}(cSGR"
       },
 {
       "Name": "VPN IRON SPEED",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "chechechileip.conexioneschewe.online",
+      "ServerIP": "conexionescheweip.conexioneschewe.online",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "kolby",
-      "PASS": "kolby1"
+      "USER": "tigo",
+      "PASS": "apn1"
       },
 {
-      "Name": "LIONS SSH br",
+      "Name": "LIONS SSH br NO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "jbzin.xyz",
@@ -91,7 +91,7 @@
       "PASS": "Lions"
       },
 {
-      "Name": "INTERCOL VPN",
+      "Name": "INTERCOL VPN NO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "Intercol.fnx1.xyz",
@@ -102,7 +102,7 @@
       "PASS": "ikudevpro"
       },
 {
-      "Name": "AUSTRO VPN",
+      "Name": "AUSTRO VPN NO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "us-server.minapronetvpn.com",
@@ -113,7 +113,7 @@
       "PASS": "tunneledozy"
       },
 {
-      "Name": "HACKER NET ",
+      "Name": "HACKER NET NO ",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "free2.downloadblackgames.tech",
@@ -131,8 +131,8 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "clarowaze6",
-      "PASS": "claro@6782-9926 6"
+      "USER": "claropanama",
+      "PASS": "panama8@un"
       },
 {
       "Name": "ULTRANET LATAM ",
@@ -142,11 +142,11 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "UNL12play",
-      "PASS": "latam"
+      "USER": "UNL0putos",
+      "PASS": "virus"
       },
 {
-      "Name": "HTTP INTERNET INFINITO",
+      "Name": "HTTP INTERNET INFINITO NO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "ssl.dominiodigitalocean.xyz",
@@ -157,7 +157,7 @@
       "PASS": "@wazefull13"
       },
 {
-      "Name": "SOCKFAST VPN",
+      "Name": "SOCKFAST VPN NO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "fast.navegando.tk",
@@ -168,7 +168,7 @@
       "PASS": "PANDA"
       },
 {
-      "Name": "SOCKETCLAY VPN",
+      "Name": "SOCKETCLAY VPN NO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "ssl.dominiodigitalocean.xyz",
@@ -186,19 +186,19 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "new1",
-      "PASS": "@new321"
+      "USER": "new55",
+      "PASS": "@antimod"
       },
 {
-      "Name": "RCG LITE VPN",
+      "Name": "JENRRI VPN L",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "ar.arnet.online",
+      "ServerIP": "vip.jenrri.online",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "+]logmessage",
-      "PASS": "12345"
+      "USER": "Jenrri",
+      "PASS": "Jenrri"
       },
 
 {
