@@ -1,5 +1,5 @@
 {
-  "Version": "418",
+  "Version": "419",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 418",
+      "Name": "Actualizacion 419",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -202,7 +202,7 @@
       },
 
 {
-      "Name": "MINAPRONET VPN",
+      "Name": "MINAPRONET VPN USA",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "154.53.58.85",
@@ -213,15 +213,15 @@
       "PASS": "tunneledozy"
       },
 {
-      "Name": "EASY VPN",
+      "Name": "MINAPRONET VPN BR",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "1.taurosgamer.shop",
+      "ServerIP": "209.126.7.221",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "easyvpn23",
-      "PASS": "585858"
+      "USER": "tunneledoz",
+      "PASS": "tunneledozy"
       },
 {
       "Name": "RAPIDVPN PRO br",
