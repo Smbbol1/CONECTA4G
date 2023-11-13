@@ -1,5 +1,5 @@
 {
-  "Version": "416",
+  "Version": "417",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 416",
+      "Name": "Actualizacion 417",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -1208,10 +1208,10 @@
       "Info": "Proxy"
      },
 {
-      "Name": "NETFLIX ssl",
+      "Name": "VIVA WLQ ssl",
       "FLAG": "CLARO",
       "Payload": "",
-      "SNI": "netflix.com",
+      "SNI": "www.youtube.googleapis.com",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "",
