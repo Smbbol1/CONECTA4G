@@ -1,11 +1,11 @@
 {
-  "Version": "426",
+  "Version": "427",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
   "EmailFeedback": "@gmail.com",
   "UrlContato": "https://wa.me/qr/HPLNNY3V4IHSO1",
-  "UrlTermos": "http://veraszk.verszd90.shop/apps/termos.php",
+  "UrlTermos": "http:8//veraszk.verszd90.shop/apps/termos.php",
   "CheckUser": "true",
   "Udp": [
     {
@@ -227,7 +227,7 @@
       "Name": "HA TUNNEL PLUS USA",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "38.132.122.42",
+      "ServerIP": "89.38.227.82",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
