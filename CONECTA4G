@@ -1,5 +1,5 @@
 {
-  "Version": "425",
+  "Version": "426",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 425",
+      "Name": "Actualizacion 426",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -227,10 +227,10 @@
       "Name": "HA TUNNEL PLUS USA",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "89.38.227.82",
+      "ServerIP": "38.132.122.42",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
-      "SSLPort": "80",
+      "SSLPort": "443",
       "USER": "sshproxy",
       "PASS": "Y4zupAnybGHPwrPF"
       },
