@@ -1,5 +1,5 @@
 {
-  "Version": "419",
+  "Version": "421",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 419",
+      "Name": "Actualizacion 421",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -1218,17 +1218,17 @@
       "Info": "Ssl"
      },
 {
-      "Name": "NETFLIX All 443",
+      "Name": "VIVA WLQ  PAY 443",
       "FLAG": "CLARO",
-      "Payload": "GET wss://[app_host]/ HTTP/1.1[crlf]Host: netflix.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "[app_host]",
-      "TlsIP": "npca.netflix.com",
+      "Payload": "GET / HTTP/1.1[crlf]Host: bigcache.googleapis.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
      },
 {
-      "Name": "youtube ALL 80",
+      "Name": "VIVA WLQ PAY 80",
       "FLAG": "CLARO",
       "Payload": "GET s://[app_host]/ HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -1362,7 +1362,7 @@
       "FLAG": "CLARO",  
       "Payload": "GET / HTTP/1.1[crlf]Host: youtube.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",  
       "SNI": "youtube.com",  
-      "TlsIP": "[app_host]",  
+      "TlsIP": "",  
       "ProxyIP": "",  
       "ProxyPort": "443",  
       "Info": "Tlsws" 
