@@ -1,5 +1,5 @@
 {
-  "Version": "427",
+  "Version": "428",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 426",
+      "Name": "Actualizacion 428",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -61,12 +61,12 @@
       "Name": "TUNNEL DOG",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "uno.digitalvps.shop",
+      "ServerIP": "doss.digitalvps.shop",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Danzo0001",
-      "PASS": "uA6%s3CKQX}(cSGR"
+      "USER": "Core0004",
+      "PASS": "I1UXSUY6pQ0r0zwv"
       },
 {
       "Name": "VPN IRON SPEED",
@@ -1288,12 +1288,12 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "VIVA FREE 80",
+      "Name": "VIVA FREE 80 WLQ",
       "FLAG": "CLARO",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: unpkg.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host:[app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "static.zdassets.com",
+      "ProxyIP": "104.16.126.175",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
