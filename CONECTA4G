@@ -1,5 +1,5 @@
 {
-  "Version": "434",
+  "Version": "435",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -1057,11 +1057,11 @@
       "Info": "Tlsws"
      },
 {
-      "Name": "WHATSAPP ENTEL",
+      "Name": "TIKTOK",
       "FLAG": "CLARO",
-      "Payload": "GET ws://[app_host] HTTP/1.0[crlf]Host: yowhatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "[app_host]",
-      "TlsIP": "yowhatsapp.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Connection: Upgrade, HTTP2-Settings > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.tiktok.com",
+      "TlsIP": "[app_host]",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
