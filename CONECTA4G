@@ -1,5 +1,5 @@
 {
-  "Version": "435",
+  "Version": "436",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -1059,9 +1059,9 @@
 {
       "Name": "TIKTOK",
       "FLAG": "CLARO",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Connection: Upgrade, HTTP2-Settings > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade, HTTP2-Settings > Upgrade: h2c [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "www.tiktok.com",
-      "TlsIP": "[app_host]",
+      "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
