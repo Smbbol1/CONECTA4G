@@ -1,5 +1,5 @@
 {
-  "Version": "433",
+  "Version": "434",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 433",
+      "Name": "Actualizacion 434",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -1208,10 +1208,10 @@
       "Info": "Proxy"
      },
 {
-      "Name": "VIVA WLQ ssl",
+      "Name": "TIKTOK WLQ ssl",
       "FLAG": "CLARO",
       "Payload": "",
-      "SNI": "www.youtube.googleapis.com",
+      "SNI": "www.tiktok.com",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "",
@@ -1238,10 +1238,10 @@
       "Info": "Proxy"
      },
 {
-      "Name": "youtube 443",
+      "Name": "TIKTOK WLQ 443",
       "FLAG": "CLARO",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "youtube.com",
+      "SNI": "www.tiktok.com",
       "TlsIP": "[app_host]",
       "ProxyIP": "",
       "ProxyPort": "443",
