@@ -1,5 +1,5 @@
 {
-  "Version": "443",
+  "Version": "444",
   "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA4G/main/CONECTA4G",
   "Sms": "http://veraszk.verazd90.shop/sms.php",
@@ -14,7 +14,7 @@
   ],
  "Servers": [ 
 {
-      "Name": "Actualizacion 434",
+      "Name": "Actualizacion 444",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "",
@@ -54,22 +54,22 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "clarowaze",
+      "USER": "wazeco",
       "PASS": "@netcolvpn"
       },
 {
       "Name": "TUNNEL DOG",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "doss.digitalvps.shop",
+      "ServerIP": "svco.digitalvps.shop",
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "logitech4",
-      "PASS": "logitech4"
+      "USER": "NarutoSVCO",
+      "PASS": "Aliens32@Al11@m"
       },
 {
-      "Name": "VPN IRON SPEED",
+      "Name": "VPN IRON SPEED NO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "conexionescheweip.conexioneschewe.online",
@@ -142,8 +142,8 @@
       "CheckUser": "http://51.222.159.64:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "UNL0putos",
-      "PASS": "virus"
+      "USER": "UNL0virus",
+      "PASS": "latam"
       },
 {
       "Name": "HTTP INTERNET INFINITO NO",
